@@ -1,0 +1,67 @@
+:root {
+  --scroll-color: #98c8ff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.css-33wkfd-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+  min-height: 0px !important;
+}
+
+.css-33wkfd-MuiButtonBase-root-MuiAccordionSummary-root {
+  min-height: 0px !important;
+}
+
+.css-7iurs7-MuiAccordionSummary-content {
+  margin: 0px !important;
+}
+
+body {
+  background-color: #ebecf2;
+}
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: inherit;
+  height: 1px;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--scroll-color);
+  border-radius: 100px;
+  transition: 150ms;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+input,
+button,
+select,
+textarea {
+  -webkit-appearance: none; /* Chrome, Safari, Opera */
+  -moz-appearance: none; /* Firefox */
+  appearance: none; /* Standart xususiyat */
+}
+/* appearance xususiyati */
+element {
+  appearance: none;
+}
+
+button[disabled="true"] {
+  cursor: not-allowed;
+  opacity: 0.5;
+  background-color: red;
+}
+
+/* appearance xususiyati */

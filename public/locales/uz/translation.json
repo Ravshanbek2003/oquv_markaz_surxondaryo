@@ -1,0 +1,1080 @@
+{
+  "change_language": "Tilni o'zgartirish",
+  "layout": {
+    "header": {
+      "ADMIN": "ADMINISTRATOR",
+      "CEO": "DIREKTOR",
+      "TEACHER": "O‘QITUVCHI",
+      "profile_menu": {
+        "profile": "Profil",
+        "language": "Til",
+        "logout": "Chiqish"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Asosiy paneli",
+      "leads": "Lidlar",
+      "teachers": "O‘qituvchilar",
+      "groups": "Guruhlar",
+      "students": "Talabalar",
+      "budget": "Mablag'",
+      "notification": "Bildirishnoma",
+      "settings": {
+        "settings": "Sozlamalar",
+        "general": "Umumiy",
+        "ceo": "Direktor",
+        "archive": "Arxiv",
+        "office": "Ofis"
+      }
+    }
+  },
+  "dashboard": {
+    "active_leadsc": "Faol leadlar",
+    "active_students": "Faol talabalar",
+    "groups": "Guruhlar",
+    "paid_this_month": "Bu oy to'langan",
+    "unpaid_students": "To'lanmagan talabalar",
+    "left_students": "Tashlab ketgan talabalar",
+    "rooms_days": "Xonalar\\Kunlar",
+    "sun": "Yak",
+    "mon": "Dush",
+    "tue": "Sesh",
+    "wed": "Chor",
+    "thu": "Pay",
+    "fri": "Juma",
+    "sat": "Shan",
+    "group": {
+      "not_set": "Mavjud emas",
+      "time_not_available": "Vaqt mavjud emas"
+    }
+  },
+  "leads": {
+    "add_new_lead": "Yangi lead qo'shish",
+    "search_leads": "Leadlarni qidirish",
+    "sections": "Bo'limlar",
+    "from_where": "Qayerdan",
+    "reset_filter": "Orqaga qaytarish",
+    "add_lead": {
+      "title": {
+        "title_1": "Leadni yangilash",
+        "title_2": "Lead qo'shish",
+        "title_3": "Lead yaratish"
+      },
+      "form": {
+        "lead_updated_successfully": "Lead muvaffaqiyatli yangilandi",
+        "lead_created_successfully": "Lead muvaffaqiyatli yaratildi",
+        "name_label": "To'liq ism",
+        "phone_number": "Telefon raqami",
+        "form_where": "Qayerdan",
+        "section": "Bo'lim"
+      }
+    },
+    "card": {
+      "toast": "Manba muvaffaqiyatli o'chirildi",
+      "from_where": "Qayerdan",
+      "no_data_available": "Ma'lumot mavjud emas",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish",
+      "delete_form_where_source": "Qayerdan manbani o'chirish",
+      "alert_text_are": "Ushbu manbani o'chirishni tasdiqlaysizmi?",
+      "add_from_where": {
+        "title": {
+          "title_1": "Qayerdanni yangilash",
+          "title_2": "Yangi qayerdan qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Qayerdan manbasi muvaffaqiyatli yangilandi",
+            "title_2": "Qayerdan manbasi muvaffaqiyatli yaratildi"
+          },
+          "from_where_name": "Qayerdan nomi",
+          "update_from": "Qayerdanni yangilash",
+          "create_from": "Qayerdanni yaratish"
+        }
+      },
+      "add_section": {
+        "title": {
+          "title_1": "Bo'limni yangilash",
+          "title_2": "Yangi bo'lim qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Bo'lim muvaffaqiyatli yangilandi",
+            "title_2": "Bo'lim muvaffaqiyatli yaratildi"
+          },
+          "section_name": "Bo'lim nomi",
+          "update_section": "Bo'limni yangilash",
+          "create_section": "Bo'limni yaratish"
+        }
+      },
+      "alert": {
+        "cancel": "Bekor qilish",
+        "delete": "O'chirish"
+      },
+      "section_card": {
+        "toast": "Lid muvaffaqiyatli ko‘chirildi",
+        "toast1": "Bo‘lim muvaffaqiyatli o‘chirildi",
+        "no_leads_available": "Lidlar mavjud emas",
+        "menu": {
+          "edit": "Tahrirlash",
+          "delete": "O‘chirish",
+          "create_group": "Guruh yaratish"
+        },
+        "alert": {
+          "title": "Bo‘limni o‘chirish",
+          "text": "Ushbu bo‘limni o‘chirishni tasdiqlaysizmi?"
+        },
+        "add_group": {
+          "title": {
+            "title_1": "Guruhni yangilash",
+            "title_2": "Yangi guruh qo‘shish"
+          },
+          "form": {
+            "days": {
+              "sunday": "Yakshanba",
+              "monday": "Dushanba",
+              "tuesday": "Seshanba",
+              "wednesday": "Chorshanba",
+              "thursday": "Payshanba",
+              "friday": "Juma",
+              "saturday": "Shanba"
+            },
+            "toast": {
+              "title_1": "Guruh muvaffaqiyatli yangilandi",
+              "title_2": "Guruh muvaffaqiyatli yaratildi"
+            },
+            "group_name": "Guruh nomi",
+            "select_course": "Kursni tanlang",
+            "select_teacher": "O‘qituvchini tanlang",
+            "start_time": "Boshlanish vaqti",
+            "select_days": "Kunlarni tanlang",
+            "select_room": "Xonani tanlang",
+            "group_start_date": "Guruh boshlanish sanasi",
+            "end_date": "Guruh tugash sanasi",
+            "update_group": "Guruhni yangilash",
+            "add_group": "Guruh yaratish"
+          }
+        },
+        "lead_card": {
+          "toast": "Bo'lim muvaffaqiyatli o'chirildi",
+          "edit": "Tahrirlash",
+          "sms": "SMS",
+          "archive": "Arxivlash",
+          "add_to_group": "Guruhga qo'shish",
+          "full_name": "To'liq ism",
+          "phone_number": "Telefon raqami",
+          "updated": "Yangilandi",
+          "title": "Arxivga qo'yish",
+          "text": "Ushbu lidni arxivlashga ishonchingiz komilmi?",
+          "btn_text": "Arxivlash"
+        }
+      }
+    },
+    "list": {
+      "toast": "Lid muvaffaqiyatli arxivlandi",
+      "lead_name": "Lid nomi",
+      "phone_number": "Telefon raqami",
+      "from_where": "Qayerdan",
+      "section": "Bo‘lim",
+      "no_date_available": "Mavjud ma’lumot yo‘q",
+      "menu": {
+        "edit": "Tahrirlash",
+        "sms": "SMS",
+        "archive": "Arxivlash",
+        "add_to_group": "Guruhga qo‘shish"
+      },
+      "add_group": {
+        "title": "Guruhga qo‘shish",
+        "groups_form": {
+          "toast": {
+            "title_1": "Lead muvaffaqiyatli guruhga qo‘shildi",
+            "title_2": "Student muvaffaqiyatli guruhga qo‘shildi"
+          },
+          "select_group": "Guruhni tanlang",
+          "date_form": "Sana shakli",
+          "add_group": "Guruh qo‘shish"
+        }
+      }
+    }
+  },
+  "teachers": {
+    "search_placeholder": "O‘qituvchini qidiring",
+    "add_new_teacher": "Yangi o‘qituvchi qo‘shish",
+    "full_name": "To‘liq ism",
+    "phone_number": "Telefon raqami",
+    "groups": "Guruhlar",
+    "percent": "Foiz",
+    "no_data_available": "Ma’lumot mavjud emas",
+    "add_modal": {
+      "title": {
+        "title_1": "O‘qituvchini yangilash",
+        "title_2": "Yangi o‘qituvchi qo‘shish"
+      }
+    },
+    "teacher_form": {
+      "toast": {
+        "title_1": "O‘qituvchi muvaffaqiyatli yangilandi",
+        "title_2": "O‘qituvchi muvaffaqiyatli yaratildi"
+      },
+      "full_name": "To‘liq ism",
+      "telegram_username": "Telegram ",
+      "percent": "Foiz (%)",
+      "branches": "Filiallar",
+      "phone_number": "Telefon raqami",
+      "password": "Parol",
+      "button": {
+        "title_1": "O‘qituvchini yangilash",
+        "title_2": "O‘qituvchini yaratish"
+      }
+    },
+    "tabs": {
+      "profile": {
+        "title": "Profil",
+        "branch": "Filial",
+        "phone": "Telefon",
+        "telegram": "Telegram",
+        "no_data": "Ma'lumot yo'q",
+        "percent": "Foiz",
+        "balance": "Balans",
+        "menu": {
+          "edit": "Tahrirlash",
+          "sms": "SMS",
+          "archive": "Arxivlash"
+        }
+      },
+      "groups": {
+        "title": "Guruhlar",
+        "group_name": "Guruh nomi",
+        "course": "Kurs",
+        "start_date": "Boshlanish sanasi",
+        "end_date": "Tugash sanasi",
+        "see_group": "Guruhni ko‘rish",
+        "no_groups_available": "Mavjud guruhlar yo‘q"
+      },
+      "salary": {
+        "title": "Maosh",
+        "salary_tabs": {
+          "income": {
+            "title": "Daromad",
+            "amount": "Miqdor",
+            "group": "Guruh",
+            "student": "Student",
+            "payment_date": "To‘lov sanasi",
+            "no_data_available": "Ma'lumot mavjud emas",
+            "deleted_group": "O'chirilgan guruh",
+            "deleted_student": "O'chirilgan student"
+          },
+          "expense": {
+            "title": "Xarajat",
+            "amount": "Miqdor",
+            "category": "Kategoriya",
+            "description": "Tavsif",
+            "date": "Sana",
+            "no_data_available": "Ma'lumot mavjud emas"
+          }
+        }
+      }
+    }
+  },
+  "groups": {
+    "rooms": "Xonalar",
+    "teachers": "O‘qituvchilar",
+    "courses": "Kurslar",
+    "reset_filters": "Orqaga qaytarish",
+    "add_button": "Yangi guruh qo‘shish",
+
+    "table": {
+      "group_name": "Guruh nomi",
+      "course": "Kurs",
+      "teacher": "O‘qituvchi",
+      "days": "Kunlar",
+      "room": "Xona",
+      "students": "Talabalar",
+      "no_data_available": "Ma'lumot mavjud emas"
+    },
+    "group": {
+      "toast": "Guruh muvaffaqiyatli arxivlandi",
+      "deleted_course": "O'chirilgan kurs",
+      "deleted_teacher": "O'chirilgan o'qituvchi",
+      "deleted_room": "O'chirilgan xona",
+      "reload": {
+        "unknown_error_occurred": "Noma'lum xatolik yuz berdi",
+        "issues": "Kutilmagan muammolar uchun uzr so‘raymiz",
+        "sometime": "Iltimos, sahifani qayta yuklang yoki keyinroq qaytib keling",
+        "reload_page": "Sahifani qayta yuklash"
+      },
+      "attend_btn": {
+        "absent": "Yo'q",
+        "present": "Bor",
+        "reason": "Sababli",
+        "toast": {
+          "title_1": "Davomat muvaffaqiyatli o‘chirildi",
+          "title_2": "Davomat muvaffaqiyatli belgilandi"
+        }
+      },
+      "groups_name": "Guruh nomi",
+      "course": "Kurs",
+      "teacher_name": "O‘qituvchi ismi",
+      "training_dates": "Mashg‘ulot sanalari",
+      "students_room": "Talabalar va xona",
+      "no_days_available": "Mavjud kunlar yo‘q",
+      "time_not_available": "Mavjud vaqt yo‘q",
+      "menu": {
+        "edit": "Tahrirlash",
+        "sms": "SMS",
+        "archive": "Arxivlash",
+        "add_student": "Talaba qo‘shish",
+        "add_new_student": {
+          "title": "Yangi talabani qo'shish",
+          "toast": "Talabalar guruhga muvaffaqiyatli qo‘shildi",
+          "students_label": "Talabalar",
+          "students_placeholder": "Talabalarni qidirish",
+          "date_picker": "Sana shakli",
+          "button": "Talabani qo'shish"
+        }
+      },
+      "group_tabs": {
+        "attendance": {
+          "title": "Davomat",
+          "students_days": "Talabalar va kunlar",
+          "more": "Batafsil",
+          "month_and_year": "Oy va yil",
+          "month": "Oy",
+          "year": "Yil",
+          "no_data": "Ma'lumot mavjud emas",
+          "show_all": "Hammasini ko‘rsat",
+          "hide_left_frozen": "Tark etgan va muzlatilganlarni yashirish",
+          "month_year": "oy va yil",
+          "student_control_panel": {
+            "frozen": "MUZLATILGAN",
+            "acrive": "FAOL",
+            "activate": "Faollashtirish",
+            "freeze": "Muzlatish",
+            "expel_from_group": "Guruhdan chiqarish",
+            "toast": {
+              "active": "Talaba muvaffaqiyatli faollashtirildi",
+              "frozen": "Talaba muvaffaqiyatli muzlatildi",
+              "left": "Talaba muvaffaqiyatli guruhdan chiqarildi",
+              "unknown_status": "Noma'lum holat"
+            },
+            "status": {
+              "active": "FAOL",
+              "frozen": "MUZLATILGAN",
+              "left": "CHIQQAN"
+            }
+          }
+        },
+        "history": {
+          "title": "Tarix",
+          "employee": "Xodim",
+          "student": "Talaba",
+          "group": "Guruh",
+          "status_changed": "Holat o‘zgartirildi",
+          "current_status": "Joriy holat",
+          "previous_status": "Oldingi holat",
+          "no_date_available": "Ma'lumot mavjud emas"
+        }
+      }
+    }
+  },
+  "students": {
+    "search_placeholder": "Talabani qidirish",
+    "group_label": "Guruhlar",
+    "teacher_label": "O'qituvchilar",
+    "courses_label": "Kurslar",
+    "reset_filters": "Orqaga qaytarish",
+    "add_button": "Yangi talaba qo'shish",
+    "deleted_group": "O'chirilgan guruh",
+    "deleted_course": "O'chirilgan kurs",
+    "deleted_teacher": "O'chirilgan o'qituvchi",
+    "table": {
+      "full_names": "To'liq ismi",
+      "phone_number": "Telefon raqami",
+      "groups": "Guruhlar",
+      "courses": "Kurslar",
+      "teachers": "O'qituvchilar",
+      "no_data_available": "Ma'lumotlar mavjud emas"
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Talabani tahrirlash",
+        "title_2": "Yangi talaba qo'shish"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Talaba muvaffaqiyatli yangilandi",
+          "title_2": "Talaba muvaffaqiyatli yaratildi"
+        },
+        "full_name": "To'liq ism",
+        "data_picker": "Tug'ilgan sana",
+        "gender_label": "Jinsi",
+        "phone_number": "Telefon raqami",
+        "parent_phone_number": "Ota-ona telefon raqami",
+        "select_group": "Guruhni tanlang",
+        "data_from": "Ma'lumot manbasi",
+        "button": {
+          "title_1": "Talabani yangilash",
+          "title_2": "Talaba qo'shish"
+        }
+      },
+      "menu": {
+        "sms": "SMS",
+        "add_payment": "To'lov qo'shish"
+      }
+    },
+    "student": {
+      "toast": {
+        "title_1": "Talaba muvaffaqiyatli arxivlandi"
+      },
+      "card": {
+        "name": "Ism",
+        "phone_number": "Telefon raqami",
+        "branch": "Filial",
+        "added_at": "Qo'shilgan sana",
+        "buttons": {
+          "add_payment": "To'lov qo'shish",
+          "add_to_group": "Guruhga qo'shish"
+        }
+      },
+      "bold_tabs": {
+        "groups": "Guruhlar",
+        "comment": "Izoh",
+        "button": "Yangi izoh qoldirish",
+        "history": "Tarix"
+      },
+      "menu": {
+        "edit": "Tahrirlash",
+        "archive": "Arxivlash"
+      },
+      "add_modal": {
+        "title": {
+          "title_1": "Izohni tahrirlash",
+          "title_2": "Yangi izoh qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Izoh muvaffaqiyatli yangilandi",
+            "title_2": "Izoh muvaffaqiyatli qo'shildi"
+          },
+          "comment": "Izoh kiriting",
+          "button": {
+            "title_1": "Izohni yangilash",
+            "title_2": "Izoh qo'shish"
+          }
+        }
+      },
+      "send_modal": {
+        "title": "SMS yuborish",
+        "form": {
+          "enter_massage": "Xabar kiriting",
+          "button": "Yuborish"
+        }
+      },
+      "add_payment": {
+        "title": "To'lov qo'shish",
+        "form": {
+          "toast": "To'lov muvaffaqiyatli qo'shildi",
+          "select_group": "Guruhni tanlang",
+          "payment_method": "To'lov usuli",
+          "amount": "Miqdor",
+          "data_from": "Ma'lumot manbasi",
+          "enter_comment": "Izoh kiriting",
+          "button": "To'lovni qo'shish"
+        }
+      },
+      "groups_tabs": {
+        "toast": "To'lov muvaffaqiyatli o'chirildi",
+        "group_name": "Guruh nomi",
+        "course": "Kurs",
+        "start_date": "Boshlanish sanasi",
+        "end_date": "Tugash sanasi",
+        "see_group": "Guruhni ko'rish",
+        "no_groups_available": "Guruhlar mavjud emas",
+        "deleted_group": "Guruh o'chirildi",
+        "deleted_course": "Kurs o'chirildi",
+        "deleted_receiver": "Qabul qiluvchi o'chirildi",
+        "joined_date": "Qabul qilish sanasi",
+        "current_status": "Hozirgi holat",
+        "alert": {
+          "delete_payment": "To'lovni o'chirish",
+          "message": "Bu to'lovni o'chirishga aminmisiz?"
+        },
+        "table": {
+          "date": "Sana",
+          "amount": "Miqdor",
+          "group": "Guruh",
+          "receiver": "Qabul qiluvchi"
+        }
+      },
+      "comment_tabs": {
+        "toast": "Izoh muvaffaqiyatli o'chirildi",
+        "comment": "Izoh",
+        "creator": "Yaratuvchi",
+        "date": "Sana",
+        "no_comment": "Izoh mavjud emas",
+        "menu": {
+          "edit": "Tahrirlash",
+          "delete": "O'chirish"
+        }
+      },
+      "history_tabs": {
+        "employee": "Xodim",
+        "student": "Talaba",
+        "group": "Guruh",
+        "status_changed": "Holat o'zgartirildi",
+        "current_status": "Joriy holat",
+        "previous_status": "Oldingi holat",
+        "no_date_available": "Ma'lumot mavjud emas",
+        "deleted_employee": "Xodim o'chirildi",
+        "deleted_group": "Guruh o'chirildi"
+      }
+    }
+  },
+  "budget": {
+    "income": {
+      "title": "Daromad",
+      "all_groups": "Barcha guruhlar",
+      "total": "Jami",
+      "full_name": "To'liq ism",
+      "phone_number": "Telefon raqami",
+      "amount": "Miqdor",
+      "date": "Sana",
+      "groups": "Guruhlar",
+      "no_data_available": "Ma'lumot mavjud emas",
+      "deleted_group": "O'chirilgan guruh"
+    },
+    "expected": {
+      "title": "Kutilayotgan",
+      "all_groups": "Barcha guruhlar",
+      "full_name": "To‘liq ism",
+      "phone_number": "Telefon raqami",
+      "paid": "To‘langan",
+      "expected": "Kutilayotgan",
+      "no_data": "Ma'lumotlar mavjud emas",
+      "total": "Jami",
+      "uzs": "UZS"
+    },
+    "category": {
+      "title": "Kategoriya",
+      "button": "Yangi kategoriya qo'shish",
+      "toast": "Kategoriya muvaffaqiyatli o'chirildi",
+      "category": "Kategoriya",
+      "no_data": "Ma'lumot mavjud emas"
+    },
+    "expense": {
+      "title": "Xarajat",
+      "button": "Yangi xarajat qo'shish",
+      "toast": "Xarajat muvaffaqiyatli o'chirildi",
+      "total": "Jami",
+      "employee": "Xodim",
+      "amount": "Miqdor",
+      "category": "Kategoriya",
+      "description": "Tavsif",
+      "date": "Sana",
+      "payer": "To'lovchi",
+      "payment_method": "To'lov usuli",
+      "no_data_available": "Ma'lumot mavjud emas",
+      "menu": {
+        "edit": "Tahrirlash",
+        "delete": "O'chirish"
+      }
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Kategoriyani yangilash",
+        "title_2": "Yangi kategoriya qo'shish"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Kategoriya muvaffaqiyatli yangilandi",
+          "title_2": "Kategoriya muvaffaqiyatli qo'shildi"
+        },
+        "category_name": "Kategoriya nomi",
+        "button": {
+          "title_1": "Yangilash",
+          "title_2": "Yaratish"
+        }
+      }
+    },
+    "add_expense": {
+      "title": {
+        "title_1": "Xarajatni yangilash",
+        "title_2": "Yangi xarajat qo'shish"
+      },
+      "form": {
+        "toast": "Xarajat muvaffaqiyatli qo'shildi",
+        "description": "Tavsif",
+        "date": "Sana",
+        "select_category": "Kategoriyani tanlang",
+        "select_employee": "Xodimni tanlang",
+        "amount": "Miqdor",
+        "select_payment_method": "To'lov usulini tanlang",
+        "button": {
+          "title_1": "Xarajatni yangilash",
+          "title_2": "Yangi xarajat yaratish"
+        }
+      }
+    }
+  },
+  "notification": {
+    "toast": "Bildirishnoma muvaffaqiyatli o'chirildi",
+    "new_post": "Yangi post",
+    "no_data": "Bildirishnomalar ro'yxati topilmadi",
+    "no_notification": "Bildirishnoma mavjud emas",
+    "add_modal": {
+      "title": {
+        "title_1": "Bildirishnomani yangilash",
+        "title_2": "Yangi bildirishnoma qo'shish"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Bildirishnoma muvaffaqiyatli yangilandi",
+          "title_2": "Bildirishnoma muvaffaqiyatli yaratildi"
+        },
+        "title": "Sarlavha",
+        "users": "Foydalanuvchilar",
+        "button": {
+          "title_1": "Blogni yangilash",
+          "title_2": "Blog yaratish"
+        }
+      }
+    }
+  },
+  "settings": {
+    "general": {
+      "title": "Umumiy sozlamalar",
+      "company_name": "Kompaniya nomi",
+      "about_us": "Biz haqimizda",
+      "button": "Sozlamalarni yangilash"
+    },
+    "office": {
+      "courses_tabs": {
+        "title": "Kurslar",
+        "button": "Yangi kurs qo'shish",
+        "months": "oylar",
+        "month": "oy",
+        "uzs": "so'm",
+        "no_data": "Kurslar mavjud emas",
+        "card": {
+          "toast": "Kurs muvaffaqiyatli o'chirildi",
+          "hours": " soatlar",
+          "hour": " soat",
+          "lesson_duration": "Dars davomiyligi",
+          "month": "oy",
+          "course_duration": "Kurs davomiyligi"
+        }
+      },
+      "rooms_tabs": {
+        "title": "Xonalar",
+        "button": "Yangi xona qo'shish",
+        "toast": "Xona muvaffaqiyatli o'chirildi",
+        "room_name": "Xona nomi",
+        "no_data": "Ma'lumot mavjud emas"
+      },
+      "sms_templates": {
+        "title": "SMS Shablonlari",
+        "button": "Yangi shablon qo'shish",
+        "toast": "Shablon muvaffaqiyatli o'chirildi",
+        "templates": "Shablonlar",
+        "no_data": "Ma'lumot mavjud emas"
+      },
+      "add_course": {
+        "title": {
+          "title_1": "Kursni tahrirlash",
+          "title_2": "Yangi kurs qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Kurs muvaffaqiyatli yangilandi",
+            "title_2": "Kurs muvaffaqiyatli yaratildi"
+          },
+          "course_name": "Kurs nomi",
+          "lesson_duration_min": "Dars davomiyligi (daq)",
+          "lesson_duration_month": "Dars davomiyligi (oy)",
+          "course_price": "Kurs narxi (so'm)",
+          "description": "Tavsif",
+          "button": {
+            "title_1": "Kursni yangilash",
+            "title_2": "Kurs yaratish"
+          },
+          "upload_file": "Fayl yuklash"
+        }
+      },
+      "add_room": {
+        "title": {
+          "title_1": "Xonani yangilash",
+          "title_2": "Yangi xona qo'shish"
+        },
+        "form": {
+          "room_required": "Xona nomi kiritilishi kerak",
+          "toast": {
+            "title_1": "Xona muvaffaqiyatli yangilandi",
+            "title_2": "Xona muvaffaqiyatli yaratildi"
+          },
+          "room_name": "Xona nomi",
+          "button": {
+            "title_1": "Xonani yangilash",
+            "title_2": "Xona yaratish"
+          }
+        }
+      },
+      "add_sms_template": {
+        "title": {
+          "title_1": "SMS shablonni yangilash",
+          "title_2": "Yangi SMS shablonni qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Shablon muvaffaqiyatli yangilandi",
+            "title_2": "Shablon muvaffaqiyatli yaratildi"
+          },
+          "template_name": "Shablon matni",
+          "button": {
+            "title_1": "Shablonni yangilash",
+            "title_2": "Shablon yaratish"
+          }
+        }
+      }
+    },
+    "ceo": {
+      "admins": {
+        "title": "Administratorlar",
+        "button": "Yangi administrator qo'shish",
+        "toast": "Administrator muvaffaqiyatli o'chirildi",
+        "full_name": "To'liq ismi",
+        "phone_number": "Telefon raqami",
+        "telegram": "Telegram",
+        "role": "Roli",
+        "no_available": "Mavjud emas",
+        "no_data": "Ma'lumot mavjud emas",
+        "menu": {
+          "edit": "Tahrirlash",
+          "sms": "SMS",
+          "archive": "Arxivlash"
+        },
+        "permissions": {
+          "title": "Ruxsatlar \\ Filiallar",
+          "LEADS": "LIDLAR",
+          "BUDGET": "BYUDJET",
+          "GROUPS": "GURUHLAR",
+          "TEACHERS": "O‘QITUVCHILAR",
+          "STUDENTS": "TALABALAR",
+          "PAYMENTS": "TO‘LOVLAR",
+          "ATTENDANCE": "DAVOMAT",
+          "NOTIFICATION": "BILDIRISHNOMALAR"
+        },
+        "alert": {
+          "title": "Administratorni arxivlash",
+          "message": "Bu administratorni arxivlashni xohlaysizmi?",
+          "btn_text": "Arxivlash"
+        }
+      },
+      "branches": {
+        "title": "Filiallar",
+        "button": "Yangi filial qo'shish",
+        "toast": {
+          "title_1": "Filial muvaffaqiyatli o'chirildi",
+          "title_2": "Filial holati muvaffaqiyatli yangilandi"
+        },
+        "branch_name": "Filial nomi",
+        "status": "Holati",
+        "balance": "Balans",
+        "more": "Ko'proq",
+        "no_data": "Ma'lumot mavjud emas",
+        "alert": {
+          "title": "Filialni o'chirish",
+          "message": "Filialni o'chirishni xohlaysizmi? O'chirganingizdan keyin uni tiklash mumkin emas."
+        }
+      },
+      "add_employee": {
+        "title": {
+          "title_1": "Administratorni yangilash",
+          "title_2": "Yangi administrator qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Administrator muvaffaqiyatli yangilandi",
+            "title_2": "Administrator muvaffaqiyatli yaratildi"
+          },
+          "full_name": "To'liq ismi",
+          "phone_number": "Telefon raqami",
+          "tg_username": "Telegram ",
+          "password": "Parol",
+          "branches": "Filiallar",
+          "permissions": "Ruxsatlar",
+          "button": {
+            "title_1": "Xodimni yangilash",
+            "title_2": "Xodim qo'shish"
+          },
+          "back": "Orqaga"
+        }
+      },
+      "add_branch": {
+        "title": {
+          "title_1": "Filialni yangilash",
+          "title_2": "Yangi filial qo'shish"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Filial muvaffaqiyatli yangilandi",
+            "title_2": "Filial muvaffaqiyatli yaratildi"
+          },
+          "branch_name": "Filial nomi",
+          "button": {
+            "title_1": "Filialni yangilash",
+            "title_2": "Filial yaratish"
+          }
+        }
+      }
+    },
+    "archive": {
+      "groups_tabs": {
+        "title": "Guruhlar",
+        "toast": {
+          "title_1": "Guruh muvaffaqiyatli faollashtirildi",
+          "title_2": "Guruh muvaffaqiyatli o‘chirildi"
+        },
+        "group_name": "Guruh nomi",
+        "course": "Kurs",
+        "teacher": "O‘qituvchi",
+        "start_date": "Boshlanish sanasi",
+        "end_date": "Tugash sanasi",
+        "action": "Harakat",
+        "no_data": "Ma'lumot mavjud emas",
+        "alert": {
+          "title": "Guruhni o‘chirish",
+          "message": "Ushbu guruhni o‘chirishga ishonchingiz komilmi?"
+        }
+      },
+      "students_tabs": {
+        "title": "O‘quvchilar",
+        "toast": {
+          "title_1": "O‘quvchi muvaffaqiyatli faollashtirildi",
+          "title_2": "O‘quvchi muvaffaqiyatli o‘chirildi"
+        },
+        "name": "Ismi",
+        "phone_number": "Telefon raqami",
+        "groups": "Guruhlar",
+        "action": "Harakat",
+        "no_data": "Ma'lumot mavjud emas",
+        "alert": {
+          "title": "O‘quvchini o‘chirish",
+          "message": "Ushbu o‘quvchini o‘chirishga ishonchingiz komilmi?"
+        }
+      },
+      "staff_tabs": {
+        "title": "Xodimlar",
+        "toast": {
+          "title_1": "Xodim muvaffaqiyatli faollashtirildi",
+          "title_2": "Xodim muvaffaqiyatli o‘chirildi"
+        },
+        "name": "Ismi",
+        "phone_number": "Telefon raqami",
+        "role": "Roli",
+        "action": "Harakat",
+        "no_data": "Ma'lumot mavjud emas",
+        "alert": {
+          "title": "Xodimni o‘chirish",
+          "message": "Ushbu xodimni o‘chirishga ishonchingiz komilmi?"
+        }
+      },
+      "leads_tabs": {
+        "title": "Mijozlar",
+        "toast": {
+          "title_1": "Mijoz muvaffaqiyatli faollashtirildi",
+          "title_2": "Mijoz muvaffaqiyatli o‘chirildi"
+        },
+        "full_name": "To‘liq ismi",
+        "phone_number": "Telefon raqami",
+        "section": "Bo‘lim",
+        "source": "Manba",
+        "created_date": "Yaratilgan sana",
+        "action": "Harakat",
+        "no_data": "Ma'lumot mavjud emas",
+        "alert": {
+          "title": "Mijozni o‘chirish",
+          "message": "Ushbu mijozni o‘chirishga ishonchingiz komilmi?"
+        }
+      }
+    }
+  },
+  "gender": {
+    "male": "Erkak",
+    "female": "Ayol"
+  },
+  "validation": {
+    "template_text_required": "Shablon matni talab qilinadi",
+    "sms_text_required": "Xabar matni talab qilinadi",
+    "full_name_required": "To'liq ism talab qilinadi",
+    "birth_date_required": "Tug'ilgan sana talab qilinadi",
+    "gender_required": "Jinsi talab qilinadi",
+    "parent_phone_number_required": "Otaning telefon raqami talab qilinadi",
+    "phone_number_required": "Telefon raqami talab qilinadi",
+    "group_required": "Guruh talab qilinadi",
+    "start_date_required": "Boshlanish sanasi talab qilinadi",
+    "login": {
+      "email_required": "Elektron pochta manzili talab qilinadi",
+      "password_min_length": "Parol kamida 6 ta belgi bo'lishi kerak",
+      "password_required": "Parol talab qilinadi"
+    },
+    "lead": {
+      "from_where_name_required": "Qayerdan kelgan nomi talab qilinadi",
+      "full_name_required": "To'liq ism talab qilinadi",
+      "phone_number_required": "Telefon raqami talab qilinadi",
+      "from_where_select_required": "Qayerdan tanlash talab qilinadi",
+      "section_select_required": "Bo'limni tanlash talab qilinadi",
+      "section_name_required": "Bo'lim nomi talab qilinadi"
+    },
+    "teacher": {
+      "full_name_required": "To'liq ism talab qilinadi",
+      "percent_required": "Foiz talab qilinadi",
+      "percent_max": "100% dan kichik bo'lishi kerak",
+      "branches_required": "Bo'limlar talab qilinadi",
+      "branch_valid_string": "Har bir bo'lim haqiqiy satr bo'lishi kerak",
+      "branches_min_required": "Kamida bir bo'lim talab qilinadi",
+      "phone_number_required": "Telefon raqami talab qilinadi",
+      "password_required": "Parol talab qilinadi"
+    },
+    "groups": {
+      "at_least_one_student_required": "Hech bo'lmaganda bitta talaba tanlanishi kerak",
+      "student_selection_required": "Talaba tanlash talab qilinadi",
+      "date_required": "Sana talab qilinadi",
+      "group_name_required": "Gruppaning nomi talab qilinadi",
+      "start_time_required": "Boshlanish vaqti talab qilinadi",
+      "group_start_date_required": "Gruppaning boshlanish sanasi talab qilinadi",
+      "group_end_date_required": "Gruppaning tugash sanasi talab qilinadi",
+      "days_required": "Kunlar talab qilinadi",
+      "course_required": "Kurs talab qilinadi",
+      "teacher_required": "O'qituvchi talab qilinadi",
+      "room_required": "Xona talab qilinadi"
+    },
+    "students": {
+      "comment_text_required": "Izoh matni talab qilinadi",
+      "group_required": "Guruh talab qilinadi",
+      "group_date_required": "Guruh sanasi talab qilinadi",
+      "payment": {
+        "group_required": "Guruh talab qilinadi",
+        "method_required": "To'lov usuli talab qilinadi",
+        "amount_required": "Miqdor talab qilinadi",
+        "date_required": "Sana talab qilinadi",
+        "comment_text_required": "Izoh matni talab qilinadi"
+      }
+    },
+    "notification": {
+      "title_required": "Sarlavha talab qilinadi",
+      "content_required": "Kontent talab qilinadi"
+    },
+    "settings": {
+      "ceo": {
+        "branch_name_required": "Filial nomi talab qilinadi",
+        "employee": {
+          "full_name_required": "To'liq ism talab qilinadi",
+          "phone_number_required": "Telefon raqami talab qilinadi",
+          "password_required": "Parol talab qilinadi",
+          "branch_required": "Har bir filial to'g'ri satr bo'lishi kerak",
+          "at_least_one_branch_required": "Kamida bir filial talab qilinadi",
+          "branches_required": "Filiallar talab qilinadi",
+          "name_required": "Ism talab qilinadi",
+          "permission_required": "Ruxsat talab qilinadi",
+          "at_least_one_permission_required": "Kamida bir ruxsat talab qilinadi",
+          "permissions_required": "Ruxsatlar talab qilinadi"
+        }
+      },
+      "office": {
+        "course_name_required": "Kurs nomi talab qilinadi",
+        "course_image_required": "Kurs rasmi talab qilinadi",
+        "lesson_duration_required": "Dars davomiyligi talab qilinadi",
+        "course_duration_required": "Kurs davomiyligi talab qilinadi",
+        "course_price_required": "Kurs narxi talab qilinadi",
+        "course_description_required": "Kurs tavsifi talab qilinadi"
+      }
+    },
+    "budget": {
+      "category_name_required": "Kategoriya nomi talab qilinadi",
+      "description_required": "Tavsif talab qilinadi",
+      "date_required": "Sana talab qilinadi",
+      "category_required": "Kategoriya talab qilinadi",
+      "employee_required": "Xodim talab qilinadi",
+      "amount_required": "Miqdor talab qilinadi",
+      "payment_method_required": "To'lov usuli talab qilinadi"
+    }
+  },
+  "lang": {
+    "eng": "Ingliz tili",
+    "rus": "Rus tili",
+    "uzb": "O‘zbek tili"
+  },
+  "profile": {
+    "phone": "Telefon",
+    "telegram_username": "Telegram ",
+    "balance": "Balans",
+    "uzs": "UZS",
+    "percent": "Foiz",
+    "edit_modal": {
+      "full_name": "To'liq ism",
+      "title": "Profilni tahrirlash",
+      "toast": "Profil muvaffaqiyatli yangilandi",
+      "telegram_username": "Telegram ",
+      "old_password": "Eski parol",
+      "new_password": "Yangi parol",
+      "btn_update": "Yangilash"
+    }
+  },
+  "error": {
+    "student_not_found": "Talaba topilmadi.",
+    "group_not_found": "Guruh topilmadi.",
+    "attendance_not_found": "Davomat topilmadi.",
+    "user_not_found_or_password_incorrect": "Foydalanuvchi topilmadi yoki parol noto‘g‘ri.",
+    "you_are_not_allowed": "Bu amalni bajarishga ruxsat berilmagan.",
+    "user_already_exists": "Foydalanuvchi allaqachon mavjud.",
+    "old_password_incorrect": "Eski parol noto‘g‘ri.",
+    "branch_not_found": "Filial topilmadi.",
+    "branch_already_exists": "Filial allaqachon mavjud.",
+    "category_not_found": "Kategoriya topilmadi.",
+    "category_already_exists": "Kategoriya allaqachon mavjud.",
+    "expense_already_exists": "Xarajat allaqachon mavjud.",
+    "comment_not_found": "Izoh topilmadi.",
+    "comment_already_exists": "Izoh allaqachon mavjud.",
+    "course_not_found": "Kurs topilmadi.",
+    "group_already_exists": "Guruh allaqachon mavjud.",
+    "lesson_already_exists": "Dars allaqachon mavjud.",
+    "snippet_not_found": "Kod bo‘lagi topilmadi.",
+    "snippet_already_exists": "Kod bo‘lagi allaqachon mavjud.",
+    "source_not_found": "Manba topilmadi.",
+    "staff_is_active": "Xodim allaqachon faol.",
+    "payment_already_exists": "To‘lov allaqachon mavjud.",
+    "room_not_found": "Xona topilmadi.",
+    "section_not_found": "Bo‘lim topilmadi.",
+    "section_already_exists": "Bo‘lim allaqachon mavjud.",
+    "teacher_found": "O‘qituvchi topildi.",
+    "lead_already_exists": "Mijoz allaqachon mavjud.",
+    "lead_not_found": "Mijoz topilmadi.",
+    "notification_not_found": "Bildirishnoma topilmadi.",
+    "notification_already_exists": "Bildirishnoma allaqachon mavjud.",
+    "student_already_exists": "Talaba allaqachon mavjud.",
+    "group_is_active": "Guruh allaqachon faol.",
+    "some_students_not_found": "Ba'zi talabalar topilmadi.",
+    "some_students_already_added": "Ba'zi talabalar allaqachon qo‘shilgan.",
+    "file_not_provided": "Fayl taqdim etilmagan.",
+    "unauthorized": "Ruxsatsiz kirish.",
+    "unsupported_file_type": "Qo‘llab-quvvatlanmaydigan fayl turi.",
+    "please_enter_name": "Iltimos, ismni kiriting.",
+    "please_enter_percent": "Iltimos, foizni kiriting.",
+    "please_enter_permissions": "Iltimos, ruxsatlarni kiriting."
+  },
+  "all": "Hammasi",
+  "no_options": "Opsiya yo'q",
+  "permissions_branches": "Ruxsat filiallari",
+  "LEADS": "Lidlar",
+  "BUDGET": "Byudjet",
+  "GROUPS": "Guruhlar",
+  "TEACHERS": "O‘qituvchilar",
+  "STUDENTS": "O‘quvchilar",
+  "PAYMENTS": "To‘lovlar",
+  "ATTENDANCE": "Davomat",
+  "NOTIFICATION": "Xabarnoma",
+  "full_names": "To'liq ismlar",
+  "phone_number": "Telefon raqami",
+  "individual_discount": "Shaxsiy chegirma",
+  "comment": "Izoh"
+}

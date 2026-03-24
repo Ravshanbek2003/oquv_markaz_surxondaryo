@@ -1,0 +1,1079 @@
+{
+  "change_language": "Change Language",
+  "layout": {
+    "header": {
+      "ADMIN": "ADMIN",
+      "CEO": "CEO",
+      "TEACHER": "TEACHER",
+      "profile_menu": {
+        "profile": "Profile",
+        "language": "Language",
+        "logout": "Logout"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Dashboard",
+      "leads": "Leads",
+      "teachers": "Teachers",
+      "groups": "Groups",
+      "students": "Students",
+      "budget": "Budget",
+      "notification": "Notification",
+      "settings": {
+        "settings": "Settings",
+        "general": "General",
+        "ceo": "CEO",
+        "archive": "Archive",
+        "office": "Office"
+      }
+    }
+  },
+  "dashboard": {
+    "active_leadsc": "Active Leads",
+    "active_students": "Active Students",
+    "groups": "Groups",
+    "paid_this_month": "Paid this month",
+    "unpaid_students": "Unpaid Students",
+    "left_students": "Left Students",
+    "rooms_days": "Rooms\\Days",
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat",
+    "group": {
+      "not_set": "Not set",
+      "time_not_available": "Time not available"
+    }
+  },
+  "leads": {
+    "add_new_lead": "Add New Lead",
+    "search_leads": "Search Leads",
+    "sections": "Sections",
+    "from_where": "From Where",
+    "reset_filter": "Reset filter",
+    "add_lead": {
+      "title": {
+        "title_1": "Update Lead",
+        "title_2": "Add Lead",
+        "title_3": "Create lead"
+      },
+      "form": {
+        "lead_updated_successfully": "Lead updated successfully",
+        "lead_created_successfully": "Lead created successfully",
+        "name_label": "Full Name",
+        "phone_number": "Phone Number",
+        "form_where": "From Where",
+        "section": "Section"
+      }
+    },
+    "card": {
+      "toast": "Source deleted successfully",
+      "from_where": "  From where",
+      "no_data_available": "No data available",
+      "edit": "Edit",
+      "delete": "Delete",
+      "delete_form_where_source": "Delete from where source",
+      "alert_text_are": "Are you sure you want to delete this source ?",
+      "add_from_where": {
+        "title": {
+          "title_1": "Update From Where",
+          "title_2": "Add New From Where"
+        },
+        "form": {
+          "toast": {
+            "title_1": "From where source updated successfully",
+            "title_2": "From where source created successfully"
+          },
+          "from_where_name": "From where name",
+          "update_from": "Update from where",
+          "create_from": "Create from where"
+        }
+      },
+      "add_section": {
+        "title": {
+          "title_1": "Update Section",
+          "title_2": "Add New Section"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Section updated successfully",
+            "title_2": "Section created successfully"
+          },
+          "section_name": "Section name",
+          "update_section": "Update section",
+          "create_section": "Create section"
+        }
+      },
+      "alert": {
+        "cancel": "Cancel",
+        "delete": "Delete"
+      },
+      "section_card": {
+        "toast": "Lead moved successfully",
+        "toast1": "Section deleted successfully",
+        "no_leads_available": "No leads available",
+        "menu": {
+          "edit": "Edit",
+          "delete": "Delete",
+          "create_group": "Create group"
+        },
+        "alert": {
+          "title": "Delete Section",
+          "text": "Are you sure to delete this section ?"
+        },
+        "add_group": {
+          "title": {
+            "title_1": "Update Group",
+            "title_2": "Add New Group"
+          },
+          "form": {
+            "days": {
+              "sunday": "Sunday",
+              "monday": "Monday",
+              "tuesday": "Tuesday",
+              "wednesday": "Wednesday",
+              "thursday": "Thursday",
+              "friday": "Friday",
+              "saturday": "Saturday"
+            },
+            "toast": {
+              "title_1": "Group updated successfully",
+              "title_2": "Group created successfully"
+            },
+            "group_name": "Group name",
+            "select_course": "Select course",
+            "select_teacher": "Select teacher",
+            "start_time": "Basic time picker",
+            "select_days": "Select days",
+            "select_room": "Select room",
+            "group_start_date": "Group start date",
+            "end_date": "End date of the group",
+            "update_group": "Update group",
+            "add_group": "Create group"
+          }
+        },
+        "lead_card": {
+          "toast": "Section deleted successfully",
+          "edit": "Edit",
+          "sms": "Sms",
+          "archive": "Archive",
+          "add_to_group": "Add to group",
+          "full_name": "Full name",
+          "phone_number": "Phone Number",
+          "updated": "Updated",
+          "title": "Archive lead",
+          "text": "Are you sure to archive this lead ?",
+          "btn_text": "Archive"
+        }
+      }
+    },
+    "list": {
+      "toast": "Lead archived successfully",
+      "lead_name": "Lead name",
+      "phone_number": " Phone number",
+      "from_where": "From where",
+      "section": "Section",
+      "no_date_available": "No date available",
+      "menu": {
+        "edit": "Edit",
+        "sms": "Sms",
+        "archive": "Archive",
+        "add_to_group": "Add to group"
+      },
+      "add_group": {
+        "title": "Add to group",
+        "groups_form": {
+          "toast": {
+            "title_1": "Lead added to group successfully",
+            "title_2": "Student added to group successfully"
+          },
+          "select_group": "Select group",
+          "date_form": "Date form",
+          "add_group": "Add Group"
+        }
+      }
+    }
+  },
+  "teachers": {
+    "search_placeholder": "Search Teacher",
+    "add_new_teacher": " Add new teacher",
+    "full_name": "Full Name",
+    "phone_number": "Phone Number",
+    "groups": "Groups",
+    "percent": "Percent",
+    "no_data_available": "No data available",
+    "add_modal": {
+      "title": {
+        "title_1": "Update Teacher",
+        "title_2": "Add New Teacher"
+      }
+    },
+    "teacher_form": {
+      "toast": {
+        "title_1": "Teacher updated successfully",
+        "title_2": "Teacher created successfully"
+      },
+      "full_name": "Full Name",
+      "telegram_username": "Telegram username",
+      "percent": "Percent (%)",
+      "branches": "Branches",
+      "phone_number": "Phone Number",
+      "password": "Password",
+      "button": {
+        "title_1": "Update Teacher",
+        "title_2": "Create Teacher"
+      }
+    },
+    "tabs": {
+      "profile": {
+        "title": "Profile",
+        "branch": "Branch",
+        "phone": "Phone",
+        "telegram": "Telegram",
+        "no_data": "No data",
+        "percent": "Percent",
+        "balance": "Balance",
+        "menu": {
+          "edit": "Edit",
+          "sms": "SMS",
+          "archive": "Archive"
+        }
+      },
+      "groups": {
+        "title": "Groups",
+        "group_name": "Group name",
+        "course": "Course",
+        "start_date": "Start Date",
+        "end_date": "End date",
+        "see_group": "See Group",
+        "no_groups_available": "No groups available"
+      },
+      "salary": {
+        "title": "Salary",
+        "salary_tabs": {
+          "income": {
+            "title": "Income",
+            "amount": "Amount",
+            "group": "Group",
+            "student": "Student",
+            "payment_date": "Payment date",
+            "no_data_available": "No data available",
+            "deleted_group": "Deleted group",
+            "deleted_student": "Deleted student"
+          },
+          "expense": {
+            "title": "Expense",
+            "amount": "Amount",
+            "category": "Category",
+            "description": "Description",
+            "date": "Date",
+            "no_data_available": "No data available"
+          }
+        }
+      }
+    }
+  },
+  "groups": {
+    "rooms": "Rooms",
+    "teachers": "Teachers",
+    "courses": "Courses",
+    "reset_filters": "  Reset filter",
+    "add_button": "Add new group",
+    "deleted_course": "Deleted course",
+    "deleted_teacher": "Deleted teacher",
+    "deleted_room": "Deleted room",
+    "table": {
+      "group_name": "Group name",
+      "course": "Course",
+      "teacher": "Teacher",
+      "days": "Days",
+      "room": "Room",
+      "students": "students",
+      "no_data_available": "No data available"
+    },
+    "group": {
+      "toast": "Group was successfully archived",
+      "reload": {
+        "unknown_error_occurred": "Unknown error occurred",
+        "issues": "We're so sorry for unexpected issues",
+        "sometime": "  Please try to reload the page or come back later sometime",
+        "reload_page": " Reload page"
+      },
+      "attend_btn": {
+        "absent": "Absent",
+        "present": "Present",
+        "reason": "Reason",
+        "toast": {
+          "title_1": "The attendance has been successfully deleted",
+          "title_2": "The attendance has been successfully set"
+        }
+      },
+      "groups_name": "Group name",
+      "course": "Course",
+      "teacher_name": "Teacher name",
+      "training_dates": "Training dates",
+      "students_room": " Students & room",
+      "no_days_available": "No days available",
+      "time_not_available": "Time not available",
+      "menu": {
+        "edit": "Edit",
+        "sms": "SMS",
+        "archive": "Archive",
+        "add_student": "Add student",
+        "add_new_student": {
+          "title": "Add New Student",
+          "toast": "Students have successfully joined the group",
+          "students_label": "Students",
+          "students_placeholder": "Search students",
+          "date_picker": "Date form",
+          "button": "Add Student"
+        }
+      },
+      "group_tabs": {
+        "attendance": {
+          "title": "Attendance",
+          "month_year": "month and year",
+          "students_days": "Students & Days",
+          "no_data": "No data available",
+          "show_all": "Show all",
+          "hide_left_frozen": "Hide left & frozen",
+          "more": "More",
+          "month_and_year": "month and year",
+          "month": "month",
+          "year": "year",
+          "student_control_panel": {
+            "frozen": "FROZEN",
+            "acrive": "ACTIVE",
+            "activate": "Activate",
+            "freeze": "Freeze",
+            "expel_from_group": "Expel from group",
+            "toast": {
+              "active": "Student has been successfully activated",
+              "frozen": "The student has been successfully frozen",
+              "left": "The student was expelled from the successful group",
+              "unknown_status": "Unknown status"
+            },
+            "status": {
+              "active": "ACTIVE",
+              "frozen": "FROZEN",
+              "left": "LEFT"
+            }
+          }
+        },
+        "history": {
+          "title": "History",
+          "employee": "Employee",
+          "student": "Student",
+          "group": "Group",
+          "status_changed": "  Status changed",
+          "current_status": "Current status",
+          "previous_status": "Previous status",
+          "no_date_available": "No date available"
+        }
+      }
+    }
+  },
+  "students": {
+    "search_placeholder": "Search student",
+    "group_label": "Groups",
+    "teacher_label": "Teachers",
+    "courses_label": "Courses",
+    "reset_filters": "  Reset filter",
+    "add_button": "Add new student",
+    "deleted_group": "Deleted group",
+    "deleted_course": "Deleted course",
+    "deleted_teacher": "Deleted teacher",
+    "table": {
+      "full_names": "Full Names",
+      "phone_number": "Phone Number",
+      "groups": "Groups",
+      "courses": "Courses",
+      "teachers": "Teachers",
+      "no_data_available": "No data available"
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Edit Student",
+        "title_2": "Add New Student"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Student updated successfully",
+          "title_2": "Student created successfully"
+        },
+        "full_name": "Full Name",
+        "data_picker": "Date of birth",
+        "gender_label": "Gender",
+        "phone_number": "Phone Number",
+        "parent_phone_number": "Parent phone number",
+        "select_group": "Select group",
+        "data_from": "Data from",
+        "button": {
+          "title_1": "Update student",
+          "title_2": "Add student"
+        }
+      },
+      "menu": {
+        "sms": "SMS",
+        "add_payment": "Add payment"
+      }
+    },
+    "student": {
+      "toast": {
+        "title_1": "Student archived successfully"
+      },
+      "card": {
+        "name": "Name",
+        "phone_number": "Phone number",
+        "branch": "Branch",
+        "added_at": "Added at",
+        "buttons": {
+          "add_payment": "Add payment",
+          "add_to_group": "Add to group"
+        }
+      },
+      "bold_tabs": {
+        "groups": "Groups",
+        "comment": "Comment",
+        "button": "Leave a new comment",
+        "history": "History"
+      },
+      "menu": {
+        "edit": "Edit",
+        "archive": "Archive"
+      },
+      "add_modal": {
+        "title": {
+          "title_1": "Edit Comment",
+          "title_2": "Add New Comment"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Comment updated successfully",
+            "title_2": "Comment created successfully"
+          },
+          "comment": "Enter comment",
+          "button": {
+            "title_1": "Update comment",
+            "title_2": "Create comment"
+          }
+        }
+      },
+      "send_modal": {
+        "title": "Send SMS",
+        "form": {
+          "enter_massage": "Enter message",
+          "button": "Send"
+        }
+      },
+      "add_payment": {
+        "title": "Add Payment",
+        "form": {
+          "toast": "Payment added successfully",
+          "select_group": "Select group",
+          "payment_method": "Payment method",
+          "amount": "Amount",
+          "data_from": "Data from",
+          "enter_comment": "Enter comment",
+          "button": "Add Payment"
+        }
+      },
+      "groups_tabs": {
+        "toast": "Payment deleted successfully",
+        "group_name": "Group name",
+        "course": "Course",
+        "start_date": "Start Date",
+        "end_date": "End date",
+        "see_group": "See Group",
+        "no_groups_available": "No groups available",
+        "deleted_group": "Deleted group",
+        "deleted_course": "Deleted course",
+        "deleted_receiver": "Deleted receiver",
+        "joined_date": "Joined date",
+        "current_status": "Current status",
+        "alert": {
+          "delete_payment": "Delete payment",
+          "message": "Are you sure you want to delete this payment ?"
+        },
+        "table": {
+          "date": "Date",
+          "amount": "Amount",
+          "group": "Group",
+          "receiver": "Receiver"
+        }
+      },
+      "comment_tabs": {
+        "toast": "Comment deleted successfully",
+        "comment": "Comment",
+        "creator": "Creator",
+        "date": "Date",
+        "no_comment": "No comment",
+        "menu": {
+          "edit": "Edit",
+          "delete": "Delete"
+        }
+      },
+      "history_tabs": {
+        "employee": "Employee",
+        "student": "Student",
+        "group": "Group",
+        "status_changed": "Status changed",
+        "current_status": "Current status",
+        "previous_status": "Previous status",
+        "no_date_available": "No date available",
+        "deleted_employee": "Deleted employee",
+        "deleted_group": "Deleted group"
+      }
+    }
+  },
+  "budget": {
+    "income": {
+      "title": "Income",
+      "all_groups": "All groups",
+      "total": "Total",
+      "full_name": "Full name",
+      "phone_number": "Phone number",
+      "amount": "Amount",
+      "date": "Date",
+      "groups": "Groups",
+      "no_data_available": "No data available",
+      "deleted_group": "Deleted group"
+    },
+    "expected": {
+      "title": "Expected",
+      "all_groups": "All groups",
+      "full_name": "Full name",
+      "phone_number": "Phone number",
+      "paid": "Paid",
+      "expected": "Expected",
+      "no_data": "No data available",
+      "total": "Total",
+      "uzs": "UZS"
+    },
+    "category": {
+      "title": "Category",
+      "button": "Add new category",
+      "toast": "Category deleted successfully",
+      "category": "Category",
+      "no_data": "No data available"
+    },
+    "expense": {
+      "title": "Expense",
+      "button": "Add new expense",
+      "toast": "Expense deleted successfully",
+      "total": "Total",
+      "employee": "Employee",
+      "amount": "Amount",
+      "category": "Category",
+      "description": "Description",
+      "date": "Date",
+      "payer": "Payer",
+      "payment_method": "Payment method",
+      "no_data_available": "No data available",
+      "menu": {
+        "edit": "Edit",
+        "delete": "Delete"
+      }
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Update Category",
+        "title_2": "Add New Category"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Category updated successfully",
+          "title_2": "Category created successfully"
+        },
+        "category_name": "Category name",
+        "button": {
+          "title_1": "Update",
+          "title_2": "Create"
+        }
+      }
+    },
+    "add_expense": {
+      "title": {
+        "title_1": "Update Expense",
+        "title_2": "Add New Expense"
+      },
+      "form": {
+        "toast": "Expense added successfully",
+        "description": "Description",
+        "date": "Date",
+        "select_category": "Select category",
+        "select_employee": "Select employee",
+        "amount": "Amount",
+        "select_payment_method": "Select payment method",
+        "button": {
+          "title_1": "Update expense",
+          "title_2": "Create new expense"
+        }
+      }
+    }
+  },
+  "notification": {
+    "toast": "Notification deleted successfully",
+    "new_post": "New post",
+    "no_data": "No notifications list found",
+    "no_notification": "No notification",
+    "add_modal": {
+      "title": {
+        "title_1": "Update Notification",
+        "title_2": "Add New Notification"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Notification updated successfully",
+          "title_2": "Notification created successfully"
+        },
+        "title": "Title",
+        "users": "Users",
+        "button": {
+          "title_1": "Update Blog",
+          "title_2": "Create Blog"
+        }
+      }
+    }
+  },
+  "settings": {
+    "general": {
+      "title": "General settings",
+      "company_name": "Company name",
+      "about_us": "About us",
+      "button": "Update settings"
+    },
+    "office": {
+      "courses_tabs": {
+        "title": "Courses",
+        "button": "Add new course",
+        "months": "months",
+        "month": "month",
+        "uzs": "UZS",
+        "no_data": "No courses available",
+        "card": {
+          "toast": "Course deleted successfully",
+          "hours": " hours",
+          "hour": " hour",
+          "lesson_duration": "Lesson duration",
+          "month": "month",
+          "course_duration": " Course duration"
+        }
+      },
+      "rooms_tabs": {
+        "title": "Rooms",
+        "button": "Add new room",
+        "toast": "Room deleted successfully",
+        "room_name": "Room name",
+        "no_data": "No data available"
+      },
+      "sms_templates": {
+        "title": "SMS Templates",
+        "button": "Add new template",
+        "toast": "Template deleted successfully",
+        "templates": "Templates",
+        "no_data": "No data available"
+      },
+      "add_course": {
+        "title": {
+          "title_1": "Edit course",
+          "title_2": "Add New Course"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Course updated successfully",
+            "title_2": "Course created successfully"
+          },
+          "course_name": "Course name",
+          "lesson_duration_min": "Lesson duration (min)",
+          "lesson_duration_month": "Lesson duration (month)",
+          "course_price": "Course price (sum)",
+          "description": "Description",
+          "button": {
+            "title_1": "Update course",
+            "title_2": "Create course"
+          },
+          "upload_file": "Upload File"
+        }
+      },
+      "add_room": {
+        "title": {
+          "title_1": "Update Room",
+          "title_2": "Add New Room"
+        },
+        "form": {
+          "room_required": "Room name is required",
+          "toast": {
+            "title_1": "Room updated successfully",
+            "title_2": "Room created successfully"
+          },
+          "room_name": "Room name",
+          "button": {
+            "title_1": "Update room",
+            "title_2": "Create room"
+          }
+        }
+      },
+      "add_sms_template": {
+        "title": {
+          "title_1": "Update sms Template",
+          "title_2": "Add New sms Template"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Template updated successfully",
+            "title_2": "Template created successfully"
+          },
+          "template_name": "Template text",
+          "button": {
+            "title_1": "Update Template",
+            "title_2": "Create Template"
+          }
+        }
+      }
+    },
+    "ceo": {
+      "admins": {
+        "title": "Admins",
+        "button": "Add new admin",
+        "toast": "Admin deleted successfully",
+        "full_name": "Full Name",
+        "phone_number": "Phone number",
+        "telegram": "Telegram",
+        "role": "Role",
+        "no_available": "Not available",
+        "no_data": "No data available",
+        "menu": {
+          "edit": "Edit",
+          "sms": "SMS",
+          "archive": "Archive"
+        },
+        "alert": {
+          "title": "Archive admin",
+          "message": "Are you sure you want to archive this admin?",
+          "btn_text": "Archive"
+        },
+        "permissions": {
+          "title": "Permissions \\ Branches",
+          "LEADS": "LEADS",
+          "BUDGET": "BUDGET",
+          "GROUPS": "GROUPS",
+          "TEACHERS": "TEACHERS",
+          "STUDENTS": "STUDENTS",
+          "PAYMENTS": "PAYMENTS",
+          "ATTENDANCE": "ATTENDANCE",
+          "NOTIFICATION": "NOTIFICATION"
+        }
+      },
+      "branches": {
+        "title": "Branches",
+        "button": "Add new branch",
+        "toast": {
+          "title_1": "Branch deleted successfully",
+          "title_2": "Branch status updated successfully"
+        },
+        "branch_name": "Branch name",
+        "status": "Status",
+        "balance": "Balance",
+        "more": "More",
+        "no_data": "No data available",
+        "alert": {
+          "title": "Delete Branch",
+          "message": "Are you sure you want to delete branch, if you delete it you will not be able to recover ?"
+        }
+      },
+      "add_employee": {
+        "title": {
+          "title_1": "Update Admin",
+          "title_2": "Add New Admin"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Admin updated successfully",
+            "title_2": "Admin created successfully"
+          },
+          "full_name": "Full name",
+          "phone_number": "Phone number",
+          "tg_username": "telegram username",
+          "password": "Password",
+          "branches": "Branches",
+          "permissions": "Permissions",
+          "button": {
+            "title_1": "Update employee",
+            "title_2": "Create employee"
+          },
+          "back": "Back"
+        }
+      },
+      "add_branch": {
+        "title": {
+          "title_1": "Update Branch",
+          "title_2": "Add New Branch"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Branch updated successfully",
+            "title_2": "Branch created successfully"
+          },
+          "branch_name": "Branch name",
+          "button": {
+            "title_1": "Update branch",
+            "title_2": "Create branch"
+          }
+        }
+      }
+    },
+    "archive": {
+      "groups_tabs": {
+        "title": "Groups",
+        "toast": {
+          "title_1": "Group activated successfully",
+          "title_2": "Group deleted successfully"
+        },
+        "group_name": "Group name",
+        "course": "Course",
+        "teacher": "Teacher",
+        "start_date": "Start date",
+        "end_date": "End date",
+        "action": "Action",
+        "no_data": "No data available",
+        "alert": {
+          "title": "Delete Group",
+          "message": "Are you sure you want to delete this group?"
+        }
+      },
+      "students_tabs": {
+        "title": "Students",
+        "toast": {
+          "title_1": "Student activated successfully",
+          "title_2": "Student deleted successfully"
+        },
+        "name": "Name",
+        "phone_number": "Phone number",
+        "groups": "Groups",
+        "action": "Action",
+        "no_data": "No data available",
+        "alert": {
+          "title": "Delete Student",
+          "message": "Are you sure you want to delete this student ?"
+        }
+      },
+      "staff_tabs": {
+        "title": "Staff",
+        "toast": {
+          "title_1": "Staff activated successfully",
+          "title_2": "Staff deleted successfully"
+        },
+        "name": "Name",
+        "phone_number": "Phone number",
+        "role": "Role",
+        "action": "Action",
+        "no_data": "No data available",
+        "alert": {
+          "title": "Delete Staff",
+          "message": "Are you sure you want to delete this staff ?"
+        }
+      },
+      "leads_tabs": {
+        "title": "Leads",
+        "toast": {
+          "title_1": "Lead activated successfully",
+          "title_2": "Lead deleted successfully"
+        },
+        "full_name": "Full name",
+        "phone_number": "Phone number",
+        "section": "Section",
+        "source": "Source",
+        "created_date": "Created date",
+        "action": "Action",
+        "no_data": "No data available",
+        "alert": {
+          "title": "Delete Lead",
+          "message": "Are you sure you want to delete this lead?"
+        }
+      }
+    }
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "validation": {
+    "template_text_required": "Template text is required",
+    "sms_text_required": "Message text is required",
+    "full_name_required": "Full name is required",
+    "birth_date_required": "Birth date is required",
+    "gender_required": "Gender is required",
+    "parent_phone_number_required": "Parent's phone number is required",
+    "phone_number_required": "Phone number is required",
+    "group_required": "Group is required",
+    "start_date_required": "Start date is required",
+    "login": {
+      "email_required": "Email is required",
+      "password_min_length": "Password must be at least 6 characters long",
+      "password_required": "Password is required"
+    },
+    "lead": {
+      "from_where_name_required": "From where name is required",
+      "full_name_required": "Full name is required",
+      "phone_number_required": "Phone number is required",
+      "from_where_select_required": "From where select is required",
+      "section_select_required": "Section select is required",
+      "section_name_required": "Section name is required"
+    },
+    "teacher": {
+      "full_name_required": "Full name is required",
+      "percent_required": "Percent is required",
+      "percent_max": "Must be less than 100%",
+      "branches_required": "Branches are required",
+      "branch_valid_string": "Each branch must be a valid string",
+      "branches_min_required": "At least one branch is required",
+      "phone_number_required": "Phone number is required",
+      "password_required": "Password is required"
+    },
+    "groups": {
+      "at_least_one_student_required": "At least one student must be selected",
+      "student_selection_required": "Student selection is required",
+      "date_required": "Date is required",
+      "group_name_required": "Group name is required",
+      "start_time_required": "Start time is required",
+      "group_start_date_required": "Group start date is required",
+      "group_end_date_required": "Group end date is required",
+      "days_required": "Days are required",
+      "course_required": "Course is required",
+      "teacher_required": "Teacher is required",
+      "room_required": "Room is required"
+    },
+    "students": {
+      "comment_text_required": "Comment text is required",
+      "group_required": "Group is required",
+      "group_date_required": "Group date is required",
+      "payment": {
+        "group_required": "Group is required",
+        "method_required": "Payment method is required",
+        "amount_required": "Amount is required",
+        "date_required": "Date is required",
+        "comment_text_required": "Comment text is required"
+      }
+    },
+    "notification": {
+      "title_required": "Title is required",
+      "content_required": "Content is required"
+    },
+    "settings": {
+      "ceo": {
+        "branch_name_required": "Branch name is required",
+        "employee": {
+          "full_name_required": "Full name is required",
+          "phone_number_required": "Phone number is required",
+          "password_required": "Password is required",
+          "branch_required": "Each branch must be a valid string",
+          "at_least_one_branch_required": "At least one branch is required",
+          "branches_required": "Branches are required",
+          "name_required": "Name is required",
+          "permission_required": "Permission is required",
+          "at_least_one_permission_required": "At least one permission is required",
+          "permissions_required": "Permissions are required"
+        }
+      },
+      "office": {
+        "course_name_required": "Course name is required",
+        "course_image_required": "Course image is required",
+        "lesson_duration_required": "Lesson duration is required",
+        "course_duration_required": "Course duration is required",
+        "course_price_required": "Course price is required",
+        "course_description_required": "Course description is required"
+      }
+    },
+    "budget": {
+      "category_name_required": "Category name is required",
+      "description_required": "Description is required",
+      "date_required": "Date is required",
+      "category_required": "Category is required",
+      "employee_required": "Employee is required",
+      "amount_required": "Amount is required",
+      "payment_method_required": "Payment method is required"
+    }
+  },
+  "lang": {
+    "eng": "English",
+    "rus": "Russian",
+    "uzb": "Uzbek"
+  },
+  "profile": {
+    "phone": "Phone",
+    "telegram_username": "Telegram username",
+    "balance": "Balance",
+    "uzs": "UZS",
+    "percent": "Percent",
+    "edit_modal": {
+      "full_name": "Full Name",
+      "title": "Edit Profile",
+      "toast": "Profile updated successfully",
+      "telegram_username": "Telegram username",
+      "old_password": "Old password",
+      "new_password": "New password",
+      "btn_update": "Update"
+    }
+  },
+  "error": {
+    "student_not_found": "Student not found.",
+    "group_not_found": "Group not found.",
+    "attendance_not_found": "Attendance not found.",
+    "user_not_found_or_password_incorrect": "User not found or password is incorrect.",
+    "you_are_not_allowed": "You are not allowed to perform this action.",
+    "user_already_exists": "User already exists.",
+    "old_password_incorrect": "Old password is incorrect.",
+    "branch_not_found": "Branch not found.",
+    "branch_already_exists": "Branch already exists.",
+    "category_not_found": "Category not found.",
+    "category_already_exists": "Category already exists.",
+    "expense_already_exists": "Expense already exists.",
+    "comment_not_found": "Comment not found.",
+    "comment_already_exists": "Comment already exists.",
+    "course_not_found": "Course not found.",
+    "group_already_exists": "Group already exists.",
+    "lesson_already_exists": "Lesson already exists.",
+    "snippet_not_found": "Snippet not found.",
+    "snippet_already_exists": "Snippet already exists.",
+    "source_not_found": "Source not found.",
+    "staff_is_active": "Staff is already active.",
+    "payment_already_exists": "Payment already exists.",
+    "room_not_found": "Room not found.",
+    "section_not_found": "Section not found.",
+    "section_already_exists": "Section already exists.",
+    "teacher_found": "Teacher found.",
+    "lead_already_exists": "Lead already exists.",
+    "lead_not_found": "Lead not found.",
+    "notification_not_found": "Notification not found.",
+    "notification_already_exists": "Notification already exists.",
+    "student_already_exists": "Student already exists.",
+    "group_is_active": "Group is already active.",
+    "some_students_not_found": "Some students not found.",
+    "some_students_already_added": "Some students have already been added.",
+    "file_not_provided": "File not provided.",
+    "unauthorized": "Unauthorized access.",
+    "unsupported_file_type": "Unsupported file type.",
+    "please_enter_name": "Please enter a name.",
+    "please_enter_percent": "Please enter percent.",
+    "please_enter_permissions": "Please enter permissions."
+  },
+  "all": "All",
+  "no_options": "No options",
+  "permissions_branches": "Permissions Branches",
+  "LEADS": "LEADS",
+  "BUDGET": "BUDGET",
+  "GROUPS": "GROUPS",
+  "TEACHERS": "TEACHERS",
+  "STUDENTS": "STUDENTS",
+  "PAYMENTS": "PAYMENTS",
+  "ATTENDANCE": "ATTENDANCE",
+  "NOTIFICATION": "NOTIFICATION",
+  "full_names": "Full Names",
+  "phone_number": "Phone Number",
+  "individual_discount": "Individual discount",
+  "comment": "Comment"
+}

@@ -1,0 +1,1081 @@
+{
+  "change_language": "Изменить язык",
+  "layout": {
+    "header": {
+      "ADMIN": "АДМИНИСТРАТОР",
+      "CEO": "ДИРЕКТОР",
+      "TEACHER": "ПРЕПОДАВАТЕЛЬ",
+      "profile_menu": {
+        "profile": "Профиль",
+        "language": "Язык",
+        "logout": "Выйти"
+      }
+    },
+    "sidebar": {
+      "dashboard": "Дашборд",
+      "leads": "Клиенты",
+      "teachers": "Учители",
+      "groups": "Группы",
+      "students": "Студенты",
+      "budget": "Бюджет",
+      "notification": "Уведомления",
+      "settings": {
+        "settings": "Настройки",
+        "general": "Общие",
+        "ceo": "Генеральный директор",
+        "archive": "Архив",
+        "office": "Офис"
+      }
+    }
+  },
+  "dashboard": {
+    "active_leadsc": "Активные лиды",
+    "active_students": "Активные студенты",
+    "groups": "Группы",
+    "paid_this_month": "Оплачено в этом месяце",
+    "unpaid_students": "Неоплаченные студенты",
+    "left_students": "Ушедшие студенты",
+    "rooms_days": "Комнаты\\Дни",
+    "sun": "Вс",
+    "mon": "Пн",
+    "tue": "Вт",
+    "wed": "Ср",
+    "thu": "Чт",
+    "fri": "Пт",
+    "sat": "Сб",
+    "group": {
+      "not_set": "Не задано",
+      "time_not_available": "Время недоступно"
+    }
+  },
+  "leads": {
+    "add_new_lead": "Добавить новый лид",
+    "search_leads": "Поиск лидов",
+    "sections": "Разделы",
+    "from_where": "Откуда",
+    "reset_filter": "Сбросить фильтр",
+    "add_lead": {
+      "title": {
+        "title_1": "Обновить лид",
+        "title_2": "Добавить лид",
+        "title_3": "Создать лид"
+      },
+      "form": {
+        "lead_updated_successfully": "Лид успешно обновлен",
+        "lead_created_successfully": "Лид успешно создан",
+        "name_label": "Полное имя",
+        "phone_number": "Номер телефона",
+        "form_where": "Откуда",
+        "section": "Раздел"
+      }
+    },
+    "card": {
+      "toast": "Источник успешно удалён",
+      "from_where": "Откуда",
+      "no_data_available": "Данные отсутствуют",
+      "edit": "Редактировать",
+      "delete": "Удалить",
+      "delete_form_where_source": "Удалить источник 'Откуда'",
+      "alert_text_are": "Вы уверены, что хотите удалить этот источник?",
+      "add_from_where": {
+        "title": {
+          "title_1": "Обновить источник 'Откуда'",
+          "title_2": "Добавить новый источник 'Откуда'"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Источник 'Откуда' успешно обновлён",
+            "title_2": "Источник 'Откуда' успешно создан"
+          },
+          "from_where_name": "Название источника 'Откуда'",
+          "update_from": "Обновить 'Откуда'",
+          "create_from": "Создать 'Откуда'"
+        }
+      },
+      "add_section": {
+        "title": {
+          "title_1": "Обновить раздел",
+          "title_2": "Добавить новый раздел"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Раздел успешно обновлён",
+            "title_2": "Раздел успешно создан"
+          },
+          "section_name": "Название раздела",
+          "update_section": "Обновить раздел",
+          "create_section": "Создать раздел"
+        }
+      },
+      "alert": {
+        "cancel": "Отмена",
+        "delete": "Удалить"
+      },
+      "section_card": {
+        "toast": "Лид успешно перемещён",
+        "toast1": "Раздел успешно удалён",
+        "no_leads_available": "Нет доступных лидов",
+        "menu": {
+          "edit": "Редактировать",
+          "delete": "Удалить",
+          "create_group": "Создать группу"
+        },
+        "alert": {
+          "title": "Удалить раздел",
+          "text": "Вы уверены, что хотите удалить этот раздел?"
+        },
+        "add_group": {
+          "title": {
+            "title_1": "Обновить группу",
+            "title_2": "Добавить новую группу"
+          },
+          "form": {
+            "days": {
+              "sunday": "Воскресенье",
+              "monday": "Понедельник",
+              "tuesday": "Вторник",
+              "wednesday": "Среда",
+              "thursday": "Четверг",
+              "friday": "Пятница",
+              "saturday": "Суббота"
+            },
+            "toast": {
+              "title_1": "Группа успешно обновлена",
+              "title_2": "Группа успешно создана"
+            },
+            "group_name": "Название группы",
+            "select_course": "Выберите курс",
+            "select_teacher": "Выберите учителя",
+            "start_time": "Выбор времени",
+            "select_days": "Выберите дни",
+            "select_room": "Выберите комнату",
+            "group_start_date": "Дата начала группы",
+            "end_date": "Дата окончания группы",
+            "update_group": "Обновить группу",
+            "add_group": "Создать группу"
+          }
+        },
+        "lead_card": {
+          "toast": "Раздел успешно удалён",
+          "edit": "Редактировать",
+          "sms": "SMS",
+          "archive": "Архивировать",
+          "add_to_group": "Добавить в группу",
+          "full_name": "Полное имя",
+          "phone_number": "Номер телефона",
+          "updated": "Обновлено",
+          "title": "Архивировать лид",
+          "text": "Вы уверены, что хотите архивировать этот лид?",
+          "btn_text": "Архивировать"
+        }
+      }
+    },
+    "list": {
+      "toast": "Лид успешно архивирован",
+      "lead_name": "Имя лида",
+      "phone_number": "Номер телефона",
+      "from_where": "Откуда",
+      "section": "Раздел",
+      "no_date_available": "Данные отсутствуют",
+      "menu": {
+        "edit": "Редактировать",
+        "sms": "СМС",
+        "archive": "Архивировать",
+        "add_to_group": "Добавить в группу"
+      },
+      "add_group": {
+        "title": "Добавить в группу",
+        "groups_form": {
+          "toast": {
+            "title_1": "Лид успешно добавлен в группу",
+            "title_2": "Студент успешно добавлен в группу"
+          },
+          "select_group": "Выберите группу",
+          "date_form": "Выберите дату",
+          "add_group": "Добавить группу"
+        }
+      }
+    }
+  },
+  "teachers": {
+    "search_placeholder": "Поиск учителя",
+    "add_new_teacher": "Добавить нового учителя",
+    "full_name": "Полное имя",
+    "phone_number": "Номер телефона",
+    "groups": "Группы",
+    "percent": "Процент",
+    "no_data_available": "Нет доступных данных",
+    "add_modal": {
+      "title": {
+        "title_1": "Обновить учителя",
+        "title_2": "Добавить нового учителя"
+      }
+    },
+    "teacher_form": {
+      "toast": {
+        "title_1": "Учитель успешно обновлён",
+        "title_2": "Учитель успешно создан"
+      },
+      "full_name": "Полное имя",
+      "telegram_username": "Имя пользователя в Telegram",
+      "percent": "Процент (%)",
+      "branches": "Филиалы",
+      "phone_number": "Номер телефона",
+      "password": "Пароль",
+      "button": {
+        "title_1": "Обновить учителя",
+        "title_2": "Создать учителя"
+      }
+    },
+    "tabs": {
+      "profile": {
+        "title": "Профиль",
+        "branch": "Филиал",
+        "phone": "Телефон",
+        "telegram": "Телеграм",
+        "no_data": "Нет данных",
+        "percent": "Процент",
+        "balance": "Баланс",
+        "menu": {
+          "edit": "Редактировать",
+          "sms": "СМС",
+          "archive": "Архивировать"
+        }
+      },
+      "groups": {
+        "title": "Группы",
+        "group_name": "Название группы",
+        "course": "Курс",
+        "start_date": "Дата начала",
+        "end_date": "Дата окончания",
+        "see_group": "Посмотреть группу",
+        "no_groups_available": "Группы не доступны"
+      },
+      "salary": {
+        "title": "Зарплата",
+        "salary_tabs": {
+          "income": {
+            "title": "Доход",
+            "amount": "Сумма",
+            "group": "Группа",
+            "student": "Студент",
+            "payment_date": "Дата платежа",
+            "no_data_available": "Данные отсутствуют",
+            "deleted_group": "Удаленная группа",
+            "Deleted student": "Удалённый студент"
+          },
+          "expense": {
+            "title": "Расход",
+            "amount": "Сумма",
+            "category": "Категория",
+            "description": "Описание",
+            "date": "Дата",
+            "no_data_available": "Данные отсутствуют"
+          }
+        }
+      }
+    }
+  },
+  "groups": {
+    "rooms": "Комнаты",
+    "teachers": "Учителя",
+    "courses": "Курсы",
+    "reset_filters": "Сбросить фильтры",
+    "add_button": "Добавить новую группу",
+    "table": {
+      "group_name": "Название группы",
+      "course": "Курс",
+      "teacher": "Учитель",
+      "days": "Дни",
+      "room": "Комната",
+      "students": "Студенты",
+      "no_data_available": "Данные отсутствуют"
+    },
+    "group": {
+      "toast": "Группа успешно архивирована",
+      "deleted_course": "Удаленный курс",
+      "deleted_teacher": "Удаленный учитель",
+      "deleted_room": "Удаленная комната",
+
+      "reload": {
+        "unknown_error_occurred": "Произошла неизвестная ошибка",
+        "issues": "Извините за неожиданные проблемы",
+        "sometime": "Пожалуйста, попробуйте перезагрузить страницу или зайдите позже",
+        "reload_page": "Перезагрузить страницу"
+      },
+      "attend_btn": {
+        "absent": "Отсутствует",
+        "present": "Присутствует",
+        "reason": "Причина",
+        "toast": {
+          "title_1": "Посещаемость успешно удалена",
+          "title_2": "Посещаемость успешно установлена"
+        }
+      },
+      "groups_name": "Название группы",
+      "course": "Курс",
+      "teacher_name": "Имя учителя",
+      "training_dates": "Даты тренировок",
+      "students_room": "Студенты и комната",
+      "no_days_available": "Нет доступных дней",
+      "time_not_available": "Время недоступно",
+      "menu": {
+        "edit": "Редактировать",
+        "sms": "SMS",
+        "archive": "Архивировать",
+        "add_student": "Добавить студента",
+        "add_new_student": {
+          "title": "Добавить нового студента",
+          "toast": "Студенты успешно присоединились к группе",
+          "students_label": "Студенты",
+          "students_placeholder": "Поиск студентов",
+          "date_picker": "Форма даты",
+          "button": "Добавить студента"
+        }
+      },
+      "group_tabs": {
+        "attendance": {
+          "title": "Посещаемость",
+          "month_year": "месяц и год",
+          "students_days": "Студенты и дни",
+          "more": "Подробнее",
+          "month_and_year": "Месяц и год",
+          "month": "Месяц",
+          "year": "Год",
+          "no_data": "Данные недоступны",
+          "show_all": "Показать все",
+          "hide_left_frozen": "Скрыть левую и замороженные",
+          "student_control_panel": {
+            "frozen": "ЗАМОРОЖЕН",
+            "acrive": "АКТИВЕН",
+            "activate": "Активировать",
+            "freeze": "Заморозить",
+            "expel_from_group": "Исключить из группы",
+            "toast": {
+              "active": "Студент был успешно активирован",
+              "frozen": "Студент был успешно заморожен",
+              "left": "Студент был успешно исключен из группы",
+              "unknown_status": "Неизвестный статус"
+            },
+            "status": {
+              "active": "АКТИВНЫЙ",
+              "frozen": "ЗАМОРОЖЕН",
+              "left": "УШЕЛ"
+            }
+          }
+        },
+        "history": {
+          "title": "История",
+          "employee": "Сотрудник",
+          "student": "Студент",
+          "group": "Группа",
+          "status_changed": "Статус изменён",
+          "current_status": "Текущий статус",
+          "previous_status": "Предыдущий статус",
+          "no_date_available": "Данные отсутствуют"
+        }
+      }
+    }
+  },
+  "students": {
+    "search_placeholder": "Поиск студента",
+    "group_label": "Группы",
+    "teacher_label": "Учителя",
+    "courses_label": "Курсы",
+    "reset_filters": "Сбросить фильтры",
+    "add_button": "Добавить нового студента",
+    "deleted_group": "Группа удалена",
+    "deleted_course": "Курс удалён",
+    "deleted_teacher": "Удаленный учитель",
+    "table": {
+      "full_names": "Полные имена",
+      "phone_number": "Номер телефона",
+      "groups": "Группы",
+      "courses": "Курсы",
+      "teachers": "Учителя",
+      "no_data_available": "Нет данных"
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Редактировать студента",
+        "title_2": "Добавить нового студента"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Студент успешно обновлен",
+          "title_2": "Студент успешно создан"
+        },
+        "full_name": "Полное имя",
+        "data_picker": "Дата рождения",
+        "gender_label": "Пол",
+        "phone_number": "Номер телефона",
+        "parent_phone_number": "Номер телефона родителя",
+        "select_group": "Выбрать группу",
+        "data_from": "Данные из",
+        "button": {
+          "title_1": "Обновить студента",
+          "title_2": "Добавить студента"
+        }
+      },
+      "menu": {
+        "sms": "СМС",
+        "add_payment": "Добавить оплату"
+      }
+    },
+    "student": {
+      "toast": {
+        "title_1": "Студент успешно архивирован"
+      },
+      "card": {
+        "name": "Имя",
+        "phone_number": "Номер телефона",
+        "branch": "Филиал",
+        "added_at": "Дата добавления",
+        "buttons": {
+          "add_payment": "Добавить оплату",
+          "add_to_group": "Добавить в группу"
+        }
+      },
+      "bold_tabs": {
+        "groups": "Группы",
+        "comment": "Комментарий",
+        "button": "Оставить новый комментарий",
+        "history": "История"
+      },
+      "menu": {
+        "edit": "Редактировать",
+        "archive": "Архивировать"
+      },
+      "add_modal": {
+        "title": {
+          "title_1": "Редактировать комментарий",
+          "title_2": "Добавить новый комментарий"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Комментарий успешно обновлен",
+            "title_2": "Комментарий успешно добавлен"
+          },
+          "comment": "Введите комментарий",
+          "button": {
+            "title_1": "Обновить комментарий",
+            "title_2": "Добавить комментарий"
+          }
+        }
+      },
+      "send_modal": {
+        "title": "Отправить SMS",
+        "form": {
+          "enter_massage": "Введите сообщение",
+          "button": "Отправить"
+        }
+      },
+      "add_payment": {
+        "title": "Добавить оплату",
+        "form": {
+          "toast": "Оплата успешно добавлена",
+          "select_group": "Выберите группу",
+          "payment_method": "Метод оплаты",
+          "amount": "Сумма",
+          "data_from": "Данные из",
+          "enter_comment": "Введите комментарий",
+          "button": "Добавить оплату"
+        }
+      },
+      "groups_tabs": {
+        "toast": "Оплата успешно удалена",
+        "group_name": "Название группы",
+        "course": "Курс",
+        "start_date": "Дата начала",
+        "end_date": "Дата окончания",
+        "see_group": "Посмотреть группу",
+        "no_groups_available": "Нет доступных групп",
+        "joined_date": "Дата присоединения",
+        "current_status": "Текущий статус",
+        "deleted_group": "Группа удалена",
+        "deleted_course": "Курс удалён",
+        "deleted_receiver": "Получатель удалён",
+        "alert": {
+          "delete_payment": "Удалить оплату",
+          "message": "Вы уверены, что хотите удалить эту оплату?"
+        },
+        "table": {
+          "date": "Дата",
+          "amount": "Сумма",
+          "group": "Группа",
+          "receiver": "Получатель"
+        }
+      },
+      "comment_tabs": {
+        "toast": "Комментарий успешно удален",
+        "comment": "Комментарий",
+        "creator": "Создатель",
+        "date": "Дата",
+        "no_comment": "Комментариев нет",
+        "menu": {
+          "edit": "Редактировать",
+          "delete": "Удалить"
+        }
+      },
+      "history_tabs": {
+        "employee": "Сотрудник",
+        "student": "Студент",
+        "group": "Группа",
+        "status_changed": "Статус изменен",
+        "current_status": "Текущий статус",
+        "previous_status": "Предыдущий статус",
+        "no_date_available": "Нет доступных данных",
+        "deleted_employee": "Сотрудник удален",
+        "deleted_group": "Группа удалена"
+      }
+    }
+  },
+  "budget": {
+    "income": {
+      "title": "Доход",
+      "all_groups": "Все группы",
+      "total": "Итого",
+      "full_name": "Полное имя",
+      "phone_number": "Номер телефона",
+      "amount": "Сумма",
+      "date": "Дата",
+      "groups": "Группы",
+      "no_data_available": "Нет данных",
+      "deleted_group": "Удаленная группа"
+    },
+    "expected": {
+      "title": "Ожидаемое",
+      "all_groups": "Все группы",
+      "full_name": "Полное имя",
+      "phone_number": "Номер телефона",
+      "paid": "Оплачено",
+      "expected": "Ожидаемое",
+      "no_data": "Данные отсутствуют",
+      "total": "Итого",
+      "uzs": "UZS"
+    },
+    "category": {
+      "title": "Категория",
+      "button": "Добавить новую категорию",
+      "toast": "Категория успешно удалена",
+      "category": "Категория",
+      "no_data": "Нет данных"
+    },
+    "expense": {
+      "title": "Расход",
+      "button": "Добавить новый расход",
+      "toast": "Расход успешно удален",
+      "total": "Итого",
+      "employee": "Сотрудник",
+      "amount": "Сумма",
+      "category": "Категория",
+      "description": "Описание",
+      "date": "Дата",
+      "payer": "Плательщик",
+      "payment_method": "Способ оплаты",
+      "no_data_available": "Нет данных",
+      "menu": {
+        "edit": "Редактировать",
+        "delete": "Удалить"
+      }
+    },
+    "add_modal": {
+      "title": {
+        "title_1": "Обновить категорию",
+        "title_2": "Добавить новую категорию"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Категория успешно обновлена",
+          "title_2": "Категория успешно добавлена"
+        },
+        "category_name": "Название категории",
+        "button": {
+          "title_1": "Обновить",
+          "title_2": "Создать"
+        }
+      }
+    },
+    "add_expense": {
+      "title": {
+        "title_1": "Обновить расход",
+        "title_2": "Добавить новый расход"
+      },
+      "form": {
+        "toast": "Расход успешно добавлен",
+        "description": "Описание",
+        "date": "Дата",
+        "select_category": "Выберите категорию",
+        "select_employee": "Выберите сотрудника",
+        "amount": "Сумма",
+        "select_payment_method": "Выберите способ оплаты",
+        "button": {
+          "title_1": "Обновить расход",
+          "title_2": "Создать новый расход"
+        }
+      }
+    }
+  },
+  "notification": {
+    "toast": "Уведомление успешно удалено",
+    "new_post": "Новая публикация",
+    "no_data": "Список уведомлений не найден",
+    "no_notification": "Уведомлений нет",
+    "add_modal": {
+      "title": {
+        "title_1": "Обновить уведомление",
+        "title_2": "Добавить новое уведомление"
+      },
+      "form": {
+        "toast": {
+          "title_1": "Уведомление успешно обновлено",
+          "title_2": "Уведомление успешно создано"
+        },
+        "title": "Заголовок",
+        "users": "Пользователи",
+        "button": {
+          "title_1": "Обновить блог",
+          "title_2": "Создать блог"
+        }
+      }
+    }
+  },
+  "settings": {
+    "general": {
+      "title": "Общие настройки",
+      "company_name": "Название компании",
+      "about_us": "О нас",
+      "button": "Обновить настройки"
+    },
+    "office": {
+      "courses_tabs": {
+        "title": "Курсы",
+        "button": "Добавить новый курс",
+        "months": "месяцев",
+        "month": "месяц",
+        "uzs": "UZS",
+        "no_data": "Курсы недоступны",
+        "card": {
+          "toast": "Курс успешно удален",
+          "hours": " часов",
+          "hour": " час",
+          "lesson_duration": "Продолжительность урока",
+          "month": "месяц",
+          "course_duration": "Продолжительность курса"
+        }
+      },
+      "rooms_tabs": {
+        "title": "Комнаты",
+        "button": "Добавить новую комнату",
+        "toast": "Комната успешно удалена",
+        "room_name": "Название комнаты",
+        "no_data": "Данные недоступны"
+      },
+      "sms_templates": {
+        "title": "Шаблоны SMS",
+        "button": "Добавить новый шаблон",
+        "toast": "Шаблон успешно удален",
+        "templates": "Шаблоны",
+        "no_data": "Данные недоступны"
+      },
+      "add_course": {
+        "title": {
+          "title_1": "Редактировать курс",
+          "title_2": "Добавить новый курс"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Курс успешно обновлен",
+            "title_2": "Курс успешно создан"
+          },
+          "course_name": "Название курса",
+          "lesson_duration_min": "Продолжительность урока (мин)",
+          "lesson_duration_month": "Продолжительность урока (мес)",
+          "course_price": "Цена курса (сум)",
+          "description": "Описание",
+          "button": {
+            "title_1": "Обновить курс",
+            "title_2": "Создать курс"
+          },
+          "upload_file": "Загрузить файл"
+        }
+      },
+      "add_room": {
+        "title": {
+          "title_1": "Обновить комнату",
+          "title_2": "Добавить новую комнату"
+        },
+        "form": {
+          "room_required": "Требуется указать название комнаты",
+          "toast": {
+            "title_1": "Комната успешно обновлена",
+            "title_2": "Комната успешно создана"
+          },
+          "room_name": "Название комнаты",
+          "button": {
+            "title_1": "Обновить комнату",
+            "title_2": "Создать комнату"
+          }
+        }
+      },
+      "add_sms_template": {
+        "title": {
+          "title_1": "Обновить шаблон SMS",
+          "title_2": "Добавить новый шаблон SMS"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Шаблон успешно обновлен",
+            "title_2": "Шаблон успешно создан"
+          },
+          "template_name": "Текст шаблона",
+          "button": {
+            "title_1": "Обновить шаблон",
+            "title_2": "Создать шаблон"
+          }
+        }
+      }
+    },
+    "ceo": {
+      "admins": {
+        "title": "Администраторы",
+        "button": "Добавить нового администратора",
+        "toast": "Администратор успешно удален",
+        "full_name": "Полное имя",
+        "phone_number": "Номер телефона",
+        "telegram": "Телеграм",
+        "role": "Роль",
+        "no_available": "Недоступно",
+        "no_data": "Данные недоступны",
+        "menu": {
+          "edit": "Редактировать",
+          "sms": "SMS",
+          "archive": "Архивировать"
+        },
+        "permissions": {
+          "title": "Разрешения \\ Филиалы",
+          "LEADS": "ЛИДЫ",
+          "BUDGET": "БЮДЖЕТ",
+          "GROUPS": "ГРУППЫ",
+          "TEACHERS": "УЧИТЕЛИ",
+          "STUDENTS": "СТУДЕНТЫ",
+          "PAYMENTS": "ПЛАТЕЖИ",
+          "ATTENDANCE": "ПОСЕЩАЕМОСТЬ",
+          "NOTIFICATION": "УВЕДОМЛЕНИЯ"
+        },
+        "alert": {
+          "title": "Архивировать администратора",
+          "message": "Вы уверены, что хотите архивировать этого администратора?",
+          "btn_text": "Архивировать"
+        }
+      },
+      "branches": {
+        "title": "Филиалы",
+        "button": "Добавить новый филиал",
+        "toast": {
+          "title_1": "Филиал успешно удален",
+          "title_2": "Статус филиала успешно обновлен"
+        },
+        "branch_name": "Название филиала",
+        "status": "Статус",
+        "balance": "Баланс",
+        "more": "Подробнее",
+        "no_data": "Данные недоступны",
+        "alert": {
+          "title": "Удалить филиал",
+          "message": "Вы уверены, что хотите удалить этот филиал? После удаления восстановить его будет невозможно."
+        }
+      },
+      "add_employee": {
+        "title": {
+          "title_1": "Обновить администратора",
+          "title_2": "Добавить нового администратора"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Администратор успешно обновлен",
+            "title_2": "Администратор успешно создан"
+          },
+          "full_name": "Полное имя",
+          "phone_number": "Номер телефона",
+          "tg_username": "Имя пользователя в Телеграме",
+          "password": "Пароль",
+          "branches": "Филиалы",
+          "permissions": "Разрешения",
+          "button": {
+            "title_1": "Обновить сотрудника",
+            "title_2": "Добавить сотрудника"
+          },
+          "back": "Назад"
+        }
+      },
+      "add_branch": {
+        "title": {
+          "title_1": "Обновить филиал",
+          "title_2": "Добавить новый филиал"
+        },
+        "form": {
+          "toast": {
+            "title_1": "Филиал успешно обновлен",
+            "title_2": "Филиал успешно создан"
+          },
+          "branch_name": "Название филиала",
+          "button": {
+            "title_1": "Обновить филиал",
+            "title_2": "Создать филиал"
+          }
+        }
+      }
+    },
+    "archive": {
+      "groups_tabs": {
+        "title": "Группы",
+        "toast": {
+          "title_1": "Группа успешно активирована",
+          "title_2": "Группа успешно удалена"
+        },
+        "group_name": "Название группы",
+        "course": "Курс",
+        "teacher": "Преподаватель",
+        "start_date": "Дата начала",
+        "end_date": "Дата окончания",
+        "action": "Действие",
+        "no_data": "Данные отсутствуют",
+        "alert": {
+          "title": "Удалить группу",
+          "message": "Вы уверены, что хотите удалить эту группу?"
+        }
+      },
+      "students_tabs": {
+        "title": "Ученики",
+        "toast": {
+          "title_1": "Ученик успешно активирован",
+          "title_2": "Ученик успешно удалён"
+        },
+        "name": "Имя",
+        "phone_number": "Номер телефона",
+        "groups": "Группы",
+        "action": "Действие",
+        "no_data": "Данные отсутствуют",
+        "alert": {
+          "title": "Удалить ученика",
+          "message": "Вы уверены, что хотите удалить этого ученика?"
+        }
+      },
+      "staff_tabs": {
+        "title": "Сотрудники",
+        "toast": {
+          "title_1": "Сотрудник успешно активирован",
+          "title_2": "Сотрудник успешно удалён"
+        },
+        "name": "Имя",
+        "phone_number": "Номер телефона",
+        "role": "Роль",
+        "action": "Действие",
+        "no_data": "Данные отсутствуют",
+        "alert": {
+          "title": "Удалить сотрудника",
+          "message": "Вы уверены, что хотите удалить этого сотрудника?"
+        }
+      },
+      "leads_tabs": {
+        "title": "Клиенты",
+        "toast": {
+          "title_1": "Клиент успешно активирован",
+          "title_2": "Клиент успешно удалён"
+        },
+        "full_name": "Полное имя",
+        "phone_number": "Номер телефона",
+        "section": "Раздел",
+        "source": "Источник",
+        "created_date": "Дата создания",
+        "action": "Действие",
+        "no_data": "Данные отсутствуют",
+        "alert": {
+          "title": "Удалить клиента",
+          "message": "Вы уверены, что хотите удалить этого клиента?"
+        }
+      }
+    }
+  },
+  "gender": {
+    "male": "Мужчина",
+    "female": "Женщина"
+  },
+  "validation": {
+    "template_text_required": "Текст шаблона обязателен",
+    "sms_text_required": "Текст сообщения обязателен",
+    "full_name_required": "Полное имя обязательно",
+    "birth_date_required": "Дата рождения обязательна",
+    "gender_required": "Пол обязателен",
+    "parent_phone_number_required": "Номер телефона родителя обязателен",
+    "phone_number_required": "Номер телефона обязателен",
+    "group_required": "Группа обязательна",
+    "start_date_required": "Дата начала обязательна",
+    "login": {
+      "email_required": "Электронная почта обязательна",
+      "password_min_length": "Пароль должен содержать не менее 6 символов",
+      "password_required": "Пароль обязателен"
+    },
+    "lead": {
+      "from_where_name_is_required": "Название места обязательно",
+      "full_name_required": "Полное имя обязательно",
+      "phone_number_required": "Номер телефона обязателен",
+      "from_where_select_required": "Необходимо выбрать откуда",
+      "section_select_required": "Выбор раздела обязателен",
+      "section_name_required": "Название раздела обязательно"
+    },
+    "teacher": {
+      "full_name_required": "Полное имя обязательно",
+      "percent_required": "Процент обязателен",
+      "percent_max": "Должен быть меньше 100%",
+      "branches_required": "Отделы обязательны",
+      "branch_valid_string": "Каждый отдел должен быть строкой",
+      "branches_min_required": "Необходим хотя бы один отдел",
+      "phone_number_required": "Номер телефона обязателен",
+      "password_required": "Пароль обязателен"
+    },
+    "groups": {
+      "at_least_one_student_required": "Необходимо выбрать хотя бы одного студента",
+      "student_selection_required": "Выбор студента обязателен",
+      "date_required": "Дата обязательна",
+      "group_name_required": "Название группы обязательно",
+      "start_time_required": "Время начала обязательно",
+      "group_start_date_required": "Дата начала группы обязательна",
+      "group_end_date_required": "Дата окончания группы обязательна",
+      "days_required": "Дни обязательны",
+      "course_required": "Курс обязателен",
+      "teacher_required": "Преподаватель обязателен",
+      "room_required": "Комната обязательна"
+    },
+    "students": {
+      "comment_text_required": "Текст комментария обязателен",
+      "group_required": "Группа обязательна",
+      "group_date_required": "Дата группы обязательна",
+      "payment": {
+        "group_required": "Группа обязательна",
+        "method_required": "Метод оплаты обязателен",
+        "amount_required": "Сумма обязательна",
+        "date_required": "Дата обязательна",
+        "comment_text_required": "Текст комментария обязателен"
+      }
+    },
+    "notification": {
+      "title_required": "Название обязательно",
+      "content_required": "Контент обязателен"
+    },
+    "settings": {
+      "ceo": {
+        "branch_name_required": "Название филиала обязательно",
+
+        "employee": {
+          "full_name_required": "Полное имя обязательно",
+          "phone_number_required": "Номер телефона обязателен",
+          "password_required": "Пароль обязателен",
+          "branch_required": "Каждое отделение должно быть действительной строкой",
+          "at_least_one_branch_required": "Необходимо хотя бы одно отделение",
+          "branches_required": "Отделения обязательны",
+          "name_required": "Имя обязательно",
+          "permission_required": "Разрешение обязательно",
+          "at_least_one_permission_required": "Необходимо хотя бы одно разрешение",
+          "permissions_required": "Разрешения обязательны"
+        }
+      },
+      "office": {
+        "course_name_required": "Название курса обязательно",
+        "course_image_required": "Изображение курса обязательно",
+        "lesson_duration_required": "Продолжительность урока обязательна",
+        "course_duration_required": "Продолжительность курса обязательна",
+        "course_price_required": "Цена курса обязательна",
+        "course_description_required": "Описание курса обязательно"
+      }
+    },
+    "budget": {
+      "category_name_required": "Название категории обязательно",
+      "description_required": "Описание обязательно",
+      "date_required": "Дата обязательна",
+      "category_required": "Категория обязательна",
+      "employee_required": "Сотрудник обязателен",
+      "amount_required": "Сумма обязательна",
+      "payment_method_required": "Метод оплаты обязателен"
+    }
+  },
+  "lang": {
+    "eng": "Английский язык",
+    "rus": "Русский язык",
+    "uzb": "Узбекский язык"
+  },
+  "profile": {
+    "phone": "Телефон",
+    "telegram_username": "Имя пользователя Telegram",
+    "balance": "Баланс",
+    "uzs": "UZS",
+    "percent": "Процент",
+    "edit_modal": {
+      "full_name": "Полное имя",
+      "title": "Редактировать профиль",
+      "toast": "Профиль успешно обновлен",
+      "telegram_username": "Имя пользователя Telegram",
+      "old_password": "Старый пароль",
+      "new_password": "Новый пароль",
+      "btn_update": "Обновить"
+    }
+  },
+  "error": {
+    "student_not_found": "Студент не найден.",
+    "group_not_found": "Группа не найдена.",
+    "attendance_not_found": "Посещаемость не найдена.",
+    "user_not_found_or_password_incorrect": "Пользователь не найден или пароль неверен.",
+    "you_are_not_allowed": "Вам не разрешено выполнять это действие.",
+    "user_already_exists": "Пользователь уже существует.",
+    "old_password_incorrect": "Старый пароль неверен.",
+    "branch_not_found": "Филиал не найден.",
+    "branch_already_exists": "Филиал уже существует.",
+    "category_not_found": "Категория не найдена.",
+    "category_already_exists": "Категория уже существует.",
+    "expense_already_exists": "Расход уже существует.",
+    "comment_not_found": "Комментарий не найден.",
+    "comment_already_exists": "Комментарий уже существует.",
+    "course_not_found": "Курс не найден.",
+    "group_already_exists": "Группа уже существует.",
+    "lesson_already_exists": "Урок уже существует.",
+    "snippet_not_found": "Фрагмент не найден.",
+    "snippet_already_exists": "Фрагмент уже существует.",
+    "source_not_found": "Источник не найден.",
+    "staff_is_active": "Сотрудник уже активен.",
+    "payment_already_exists": "Платёж уже существует.",
+    "room_not_found": "Комната не найдена.",
+    "section_not_found": "Раздел не найден.",
+    "section_already_exists": "Раздел уже существует.",
+    "teacher_found": "Преподаватель найден.",
+    "lead_already_exists": "Лид уже существует.",
+    "lead_not_found": "Лид не найден.",
+    "notification_not_found": "Уведомление не найдено.",
+    "notification_already_exists": "Уведомление уже существует.",
+    "student_already_exists": "Студент уже существует.",
+    "group_is_active": "Группа уже активна.",
+    "some_students_not_found": "Некоторые студенты не найдены.",
+    "some_students_already_added": "Некоторые студенты уже добавлены.",
+    "file_not_provided": "Файл не предоставлен.",
+    "unauthorized": "Неавторизованный доступ.",
+    "unsupported_file_type": "Неподдерживаемый тип файла.",
+    "please_enter_name": "Пожалуйста, введите имя.",
+    "please_enter_percent": "Пожалуйста, введите процент.",
+    "please_enter_permissions": "Пожалуйста, введите разрешения."
+  },
+  "all": "Все",
+  "no_options": "Нет опций",
+  "permissions_branches": "Ветви разрешений",
+  "LEADS": "Клиенты",
+  "BUDGET": "Бюджет",
+  "GROUPS": "Группы",
+  "TEACHERS": "Учителя",
+  "STUDENTS": "Ученики",
+  "PAYMENTS": "Платежи",
+  "ATTENDANCE": "Посещаемость",
+  "NOTIFICATION": "Уведомление",
+  "full_names": "Полные имена",
+  "phone_number": "Номер телефона",
+  "individual_discount": "Индивидуальная скидка",
+  "comment": "Комментарий"
+}

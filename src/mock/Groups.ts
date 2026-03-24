@@ -1,0 +1,81 @@
+export const GROUPS = [
+  {
+    id: 1,
+    avatar:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvf1QkjjONaSzwOHpLCI3i2iouCxqEo_UrKg&s",
+    groupName: "Elementary",
+    course: "IT Botcamp",
+    teacher: "U.Umida",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+  {
+    id: 2,
+    avatar: "",
+    groupName: "Ocean",
+    course: "IT Botcamp",
+    teacher: "Sh.Shorustam",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+  {
+    id: 3,
+    avatar: "",
+    groupName: "Winners",
+    course: "IT Botcamp",
+    teacher: "N.Nigora",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+  {
+    id: 4,
+    avatar: "",
+    groupName: "Socialy Team",
+    course: "IT Botcamp",
+    teacher: "U.Eshmuxammad",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+  {
+    id: 5,
+    avatar: "",
+    groupName: "Designers",
+    course: "IT Botcamp",
+    teacher: "U.Abdulkarim-Umid",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+  {
+    id: 6,
+    avatar: "",
+    groupName: "Elementary",
+    course: "IT Botcamp",
+    teacher: "U.Umida",
+    days: {
+      time: "08:05-09:05",
+      days: ["Mon", "Wed", "Fri"],
+    },
+    room: "Room 2",
+    students: 24,
+  },
+];
