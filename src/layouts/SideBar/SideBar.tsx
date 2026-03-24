@@ -2,7 +2,6 @@ import {
   Accordion,
   AccordionDetails,
   AccordionSummary,
-  Avatar,
   Box,
   Button,
   Divider,
@@ -37,7 +36,7 @@ export const SideBar = ({
   const { data: settings } = useGetSettingsQuery("");
   const { data: user } = useMeQuery("");
   const branch = useSelector(
-    (state: { branch?: { branch?: string } }) => state?.branch?.branch
+    (state: { branch?: { branch?: string } }) => state?.branch?.branch,
   );
 
   const SIDE_BAR = SIDE_BAR_LINKS();
@@ -164,9 +163,9 @@ export const SideBar = ({
               user?.permissions.find(
                 (permission) =>
                   permission.name === item.permission &&
-                  permission.branch === branch
+                  permission.branch === branch,
               ) ||
-              (user?.role === Role.TEACHER && item.permission === "GROUPS")
+              (user?.role === Role.TEACHER && item.permission === "GROUPS"),
           ).map((item) => (
             <Link
               onClick={() => {
@@ -431,10 +430,7 @@ export const SideBar = ({
           },
         }}
       >
-        
-        <Box>
-           
-        </Box>
+        <Box></Box>
       </Box>
     </Box>
   );
