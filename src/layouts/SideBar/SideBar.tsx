@@ -431,32 +431,9 @@ export const SideBar = ({
           },
         }}
       >
-        <Avatar
-          alt={settings?.name || "logo"}
-          sx={{
-            width: {
-              xs: "40px",
-              sm: openMenu ? "40px" : "30px",
-              md: "40px",
-              lg: "40px",
-            },
-            height: {
-              xs: "40px",
-              sm: openMenu ? "40px" : "30px",
-              md: "40px",
-              lg: "40px",
-            },
-            objectFit: "cover",
-            borderRadius: "5px",
-            transitionDuration: "0.3s",
-          }}
-          src={"/edumirLogo.png"}
-        />
+        
         <Box>
-          <Typography variant="caption">Power By</Typography>
-          <Typography variant="subtitle2" sx={{ fontWeight: "600" }}>
-            EduMir
-          </Typography>
+           
         </Box>
       </Box>
     </Box>
